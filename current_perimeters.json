@@ -9,252 +9,6 @@
   "features": [
     {
       "type": "Feature",
-      "id": 3042,
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              -118.297163633771,
-              34.1194081979741
-            ],
-            [
-              -118.297163940097,
-              34.119408919352
-            ],
-            [
-              -118.297167766022,
-              34.1194179469875
-            ],
-            [
-              -118.297179053353,
-              34.1194536760079
-            ],
-            [
-              -118.297176707852,
-              34.119475217678
-            ],
-            [
-              -118.297161169693,
-              34.1194934469569
-            ],
-            [
-              -118.297130741957,
-              34.1194983493471
-            ],
-            [
-              -118.29709420478,
-              34.1195023481565
-            ],
-            [
-              -118.297049264761,
-              34.1195006570104
-            ],
-            [
-              -118.297010392862,
-              34.1194926073333
-            ],
-            [
-              -118.296975784367,
-              34.1194846141757
-            ],
-            [
-              -118.29696570527,
-              34.1194616676811
-            ],
-            [
-              -118.296967481239,
-              34.1194295016754
-            ],
-            [
-              -118.296979737853,
-              34.119412413201
-            ],
-            [
-              -118.297002649384,
-              34.1194053280797
-            ],
-            [
-              -118.297026931745,
-              34.1194019227293
-            ],
-            [
-              -118.297031196946,
-              34.1193773289414
-            ],
-            [
-              -118.297021902078,
-              34.1193649249536
-            ],
-            [
-              -118.297024211646,
-              34.1193501500831
-            ],
-            [
-              -118.297028902649,
-              34.1193199399381
-            ],
-            [
-              -118.29704384792,
-              34.1193046139857
-            ],
-            [
-              -118.29706606685,
-              34.1192957558993
-            ],
-            [
-              -118.297098243605,
-              34.1192908787828
-            ],
-            [
-              -118.297126450705,
-              34.1192899409902
-            ],
-            [
-              -118.297157071578,
-              34.1192952777069
-            ],
-            [
-              -118.29717293403,
-              34.1192954383439
-            ],
-            [
-              -118.297189567235,
-              34.1193019322413
-            ],
-            [
-              -118.297192201994,
-              34.1193173578485
-            ],
-            [
-              -118.297175514889,
-              34.1193296398783
-            ],
-            [
-              -118.297155194099,
-              34.1193363293633
-            ],
-            [
-              -118.297148729823,
-              34.1193730296759
-            ],
-            [
-              -118.297163633771,
-              34.1194081979741
-            ]
-          ]
-        ]
-      },
-      "properties": {
-        "OBJECTID": 3042,
-        "poly_IncidentName": "Greek Theater",
-        "poly_FeatureCategory": "Wildfire Daily Fire Perimeter",
-        "poly_MapMethod": "Digitized-Image",
-        "poly_GISAcres": null,
-        "poly_CreateDate": 1620169002944,
-        "poly_DateCurrent": 1640726195357,
-        "poly_PolygonDateTime": 1523666773000,
-        "poly_Acres_AutoCalc": 0.084438208959627,
-        "poly_GlobalID": "{05E335B4-8946-4519-BEB0-D8EE4BA7E4F6}",
-        "poly_Source": "2021 NIFS",
-        "irwin_ABCDMisc": null,
-        "irwin_ADSPermissionState": "DEFAULT",
-        "irwin_CalculatedAcres": null,
-        "irwin_ContainmentDateTime": null,
-        "irwin_ControlDateTime": null,
-        "irwin_DailyAcres": 0.1,
-        "irwin_DiscoveryAcres": 0.1,
-        "irwin_DispatchCenterID": "CALACC",
-        "irwin_EstimatedCostToDate": null,
-        "irwin_FFReportApprovedByTitle": null,
-        "irwin_FFReportApprovedByUnit": null,
-        "irwin_FFReportApprovedDate": null,
-        "irwin_FireBehaviorGeneral": null,
-        "irwin_FireBehaviorGeneral1": null,
-        "irwin_FireBehaviorGeneral2": null,
-        "irwin_FireBehaviorGeneral3": null,
-        "irwin_FireCause": "Unknown",
-        "irwin_FireCauseGeneral": "Cause and Origin Not Identified",
-        "irwin_FireCauseSpecific": null,
-        "irwin_FireCode": null,
-        "irwin_FireDepartmentID": null,
-        "irwin_FireDiscoveryDateTime": 1618338112000,
-        "irwin_FireMgmtComplexity": null,
-        "irwin_FireOutDateTime": null,
-        "irwin_FSConfinePercent": null,
-        "irwin_FSFullSuppPercent": null,
-        "irwin_FSMonitorPercent": null,
-        "irwin_FSPointZonePercent": null,
-        "irwin_FSJobCode": null,
-        "irwin_FSOverrideCode": null,
-        "irwin_GACC": "OSCC",
-        "irwin_ICS209ReportDateTime": null,
-        "irwin_ICS209RForTimePeriodFrom": null,
-        "irwin_ICS209RForTimePeriodTo": null,
-        "irwin_ICS209ReportStatus": null,
-        "irwin_IncidentManagementOrg": null,
-        "irwin_IncidentName": "Greek Theater",
-        "irwin_IncidentShortDescription": null,
-        "irwin_IncidentTypeCategory": "WF",
-        "irwin_IncidentTypeKind": "FI",
-        "irwin_InitialLatitude": null,
-        "irwin_InitialLongitude": null,
-        "irwin_InitialResponseAcres": null,
-        "irwin_InitialResponseDateTime": null,
-        "irwin_IrwinID": "{EB2A60F1-D845-4406-8748-13EE17471496}",
-        "irwin_IsFireCauseInvestigated": null,
-        "irwin_IsFireCodeRequested": 0,
-        "irwin_IsFSAssisted": null,
-        "irwin_IsMultiJurisdictional": null,
-        "irwin_IsReimbursable": null,
-        "irwin_IsTrespass": null,
-        "irwin_IsUnifiedCommand": null,
-        "irwin_LocalIncidentIdentifier": "CALFD9999",
-        "irwin_PercentContained": null,
-        "irwin_PercentPerToBeContained": null,
-        "irwin_POOCity": null,
-        "irwin_POOCounty": "Los Angeles",
-        "irwin_POODispatchCenterID": "CALACC",
-        "irwin_POOFips": "06037",
-        "irwin_POOJurisdictionalAgency": "CDF",
-        "irwin_POOJurisdictionalUnit": "CALFD",
-        "irwin_POOJurisdUnitParentUnit": null,
-        "irwin_POOLandownerCategory": "City",
-        "irwin_POOLandownerKind": "Other",
-        "irwin_POOLegalDescPrinMeridian": null,
-        "irwin_POOLegalDescQtr": null,
-        "irwin_POOLegalDescQtrQtr": null,
-        "irwin_POOLegalDescRange": null,
-        "irwin_POOLegalDescSection": null,
-        "irwin_POOLegalDescTownship": null,
-        "irwin_POOPredServiceAreaID": "SC08",
-        "irwin_POOProtectingAgency": "CDF",
-        "irwin_POOProtectingUnit": "CALFD",
-        "irwin_POOState": "US-CA",
-        "irwin_PredominantFuelGroup": "Timber",
-        "irwin_PredominantFuelModel": "TL3",
-        "irwin_PrimaryFuelModel": null,
-        "irwin_SecondaryFuelModel": null,
-        "irwin_TotalIncidentPersonnel": null,
-        "irwin_UniqueFireIdentifier": "2021-CALFD-CALFD9999",
-        "irwin_WFDSSDecisionStatus": "No Decision",
-        "irwin_CreatedBySystem": "INFORM_Inspector",
-        "irwin_ModifiedBySystem": "INFORM_Inspector",
-        "irwin_IsDispatchComplete": 0,
-        "irwin_OrganizationalAssessment": null,
-        "irwin_StratDecisionPublishDate": null,
-        "irwin_GlobalID": null,
-        "irwin_Source": "IRWIN",
-        "irwin_ArchivedOn": null,
-        "irwin_ModifiedOnDateTime_dt": 1640727710320,
-        "irwin_CreatedOnDateTime_dt": 1618360781933,
-        "Shape__Area": 3.33925527229439e-08,
-        "Shape__Length": 0.000798358483315719,
-        "GlobalID": "f44c1a47-1b96-46e8-b686-03e64e618f32"
-      }
-    },
-    {
-      "type": "Feature",
       "id": 11006,
       "geometry": {
         "type": "MultiPolygon",
@@ -1969,6 +1723,252 @@
         "Shape__Area": 1.46465936268214e-07,
         "Shape__Length": 0.00164581219255624,
         "GlobalID": "28e170db-7c1c-4875-a227-1eb079e5a7c6"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 3042,
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -118.297163633771,
+              34.1194081979741
+            ],
+            [
+              -118.297163940097,
+              34.119408919352
+            ],
+            [
+              -118.297167766022,
+              34.1194179469875
+            ],
+            [
+              -118.297179053353,
+              34.1194536760079
+            ],
+            [
+              -118.297176707852,
+              34.119475217678
+            ],
+            [
+              -118.297161169693,
+              34.1194934469569
+            ],
+            [
+              -118.297130741957,
+              34.1194983493471
+            ],
+            [
+              -118.29709420478,
+              34.1195023481565
+            ],
+            [
+              -118.297049264761,
+              34.1195006570104
+            ],
+            [
+              -118.297010392862,
+              34.1194926073333
+            ],
+            [
+              -118.296975784367,
+              34.1194846141757
+            ],
+            [
+              -118.29696570527,
+              34.1194616676811
+            ],
+            [
+              -118.296967481239,
+              34.1194295016754
+            ],
+            [
+              -118.296979737853,
+              34.119412413201
+            ],
+            [
+              -118.297002649384,
+              34.1194053280797
+            ],
+            [
+              -118.297026931745,
+              34.1194019227293
+            ],
+            [
+              -118.297031196946,
+              34.1193773289414
+            ],
+            [
+              -118.297021902078,
+              34.1193649249536
+            ],
+            [
+              -118.297024211646,
+              34.1193501500831
+            ],
+            [
+              -118.297028902649,
+              34.1193199399381
+            ],
+            [
+              -118.29704384792,
+              34.1193046139857
+            ],
+            [
+              -118.29706606685,
+              34.1192957558993
+            ],
+            [
+              -118.297098243605,
+              34.1192908787828
+            ],
+            [
+              -118.297126450705,
+              34.1192899409902
+            ],
+            [
+              -118.297157071578,
+              34.1192952777069
+            ],
+            [
+              -118.29717293403,
+              34.1192954383439
+            ],
+            [
+              -118.297189567235,
+              34.1193019322413
+            ],
+            [
+              -118.297192201994,
+              34.1193173578485
+            ],
+            [
+              -118.297175514889,
+              34.1193296398783
+            ],
+            [
+              -118.297155194099,
+              34.1193363293633
+            ],
+            [
+              -118.297148729823,
+              34.1193730296759
+            ],
+            [
+              -118.297163633771,
+              34.1194081979741
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "OBJECTID": 3042,
+        "poly_IncidentName": "Greek Theater",
+        "poly_FeatureCategory": "Wildfire Daily Fire Perimeter",
+        "poly_MapMethod": "Digitized-Image",
+        "poly_GISAcres": null,
+        "poly_CreateDate": 1620169002944,
+        "poly_DateCurrent": 1640726195357,
+        "poly_PolygonDateTime": 1523666773000,
+        "poly_Acres_AutoCalc": 0.084438208959627,
+        "poly_GlobalID": "{05E335B4-8946-4519-BEB0-D8EE4BA7E4F6}",
+        "poly_Source": "2021 NIFS",
+        "irwin_ABCDMisc": null,
+        "irwin_ADSPermissionState": "DEFAULT",
+        "irwin_CalculatedAcres": null,
+        "irwin_ContainmentDateTime": null,
+        "irwin_ControlDateTime": null,
+        "irwin_DailyAcres": 0.1,
+        "irwin_DiscoveryAcres": 0.1,
+        "irwin_DispatchCenterID": "CALACC",
+        "irwin_EstimatedCostToDate": null,
+        "irwin_FFReportApprovedByTitle": null,
+        "irwin_FFReportApprovedByUnit": null,
+        "irwin_FFReportApprovedDate": null,
+        "irwin_FireBehaviorGeneral": null,
+        "irwin_FireBehaviorGeneral1": null,
+        "irwin_FireBehaviorGeneral2": null,
+        "irwin_FireBehaviorGeneral3": null,
+        "irwin_FireCause": "Unknown",
+        "irwin_FireCauseGeneral": "Cause and Origin Not Identified",
+        "irwin_FireCauseSpecific": null,
+        "irwin_FireCode": null,
+        "irwin_FireDepartmentID": null,
+        "irwin_FireDiscoveryDateTime": 1618338112000,
+        "irwin_FireMgmtComplexity": null,
+        "irwin_FireOutDateTime": null,
+        "irwin_FSConfinePercent": null,
+        "irwin_FSFullSuppPercent": null,
+        "irwin_FSMonitorPercent": null,
+        "irwin_FSPointZonePercent": null,
+        "irwin_FSJobCode": null,
+        "irwin_FSOverrideCode": null,
+        "irwin_GACC": "OSCC",
+        "irwin_ICS209ReportDateTime": null,
+        "irwin_ICS209RForTimePeriodFrom": null,
+        "irwin_ICS209RForTimePeriodTo": null,
+        "irwin_ICS209ReportStatus": null,
+        "irwin_IncidentManagementOrg": null,
+        "irwin_IncidentName": "Greek Theater",
+        "irwin_IncidentShortDescription": null,
+        "irwin_IncidentTypeCategory": "WF",
+        "irwin_IncidentTypeKind": "FI",
+        "irwin_InitialLatitude": null,
+        "irwin_InitialLongitude": null,
+        "irwin_InitialResponseAcres": null,
+        "irwin_InitialResponseDateTime": null,
+        "irwin_IrwinID": "{EB2A60F1-D845-4406-8748-13EE17471496}",
+        "irwin_IsFireCauseInvestigated": null,
+        "irwin_IsFireCodeRequested": 0,
+        "irwin_IsFSAssisted": null,
+        "irwin_IsMultiJurisdictional": null,
+        "irwin_IsReimbursable": null,
+        "irwin_IsTrespass": null,
+        "irwin_IsUnifiedCommand": null,
+        "irwin_LocalIncidentIdentifier": "CALFD9999",
+        "irwin_PercentContained": null,
+        "irwin_PercentPerToBeContained": null,
+        "irwin_POOCity": null,
+        "irwin_POOCounty": "Los Angeles",
+        "irwin_POODispatchCenterID": "CALACC",
+        "irwin_POOFips": "06037",
+        "irwin_POOJurisdictionalAgency": "CDF",
+        "irwin_POOJurisdictionalUnit": "CALFD",
+        "irwin_POOJurisdUnitParentUnit": null,
+        "irwin_POOLandownerCategory": "City",
+        "irwin_POOLandownerKind": "Other",
+        "irwin_POOLegalDescPrinMeridian": null,
+        "irwin_POOLegalDescQtr": null,
+        "irwin_POOLegalDescQtrQtr": null,
+        "irwin_POOLegalDescRange": null,
+        "irwin_POOLegalDescSection": null,
+        "irwin_POOLegalDescTownship": null,
+        "irwin_POOPredServiceAreaID": "SC08",
+        "irwin_POOProtectingAgency": "CDF",
+        "irwin_POOProtectingUnit": "CALFD",
+        "irwin_POOState": "US-CA",
+        "irwin_PredominantFuelGroup": "Timber",
+        "irwin_PredominantFuelModel": "TL3",
+        "irwin_PrimaryFuelModel": null,
+        "irwin_SecondaryFuelModel": null,
+        "irwin_TotalIncidentPersonnel": null,
+        "irwin_UniqueFireIdentifier": "2021-CALFD-CALFD9999",
+        "irwin_WFDSSDecisionStatus": "No Decision",
+        "irwin_CreatedBySystem": "INFORM_Inspector",
+        "irwin_ModifiedBySystem": "INFORM_Inspector",
+        "irwin_IsDispatchComplete": 0,
+        "irwin_OrganizationalAssessment": null,
+        "irwin_StratDecisionPublishDate": null,
+        "irwin_GlobalID": null,
+        "irwin_Source": "IRWIN",
+        "irwin_ArchivedOn": null,
+        "irwin_ModifiedOnDateTime_dt": 1640727710320,
+        "irwin_CreatedOnDateTime_dt": 1618360781933,
+        "Shape__Area": 3.33925527229439e-08,
+        "Shape__Length": 0.000798358483315719,
+        "GlobalID": "f44c1a47-1b96-46e8-b686-03e64e618f32"
       }
     }
   ]
