@@ -1064,6 +1064,376 @@
         "Shape__Length": 0.11411984612045,
         "GlobalID": "97c4943b-d0d9-4626-815d-1b2e2836cec6"
       }
+    },
+    {
+      "type": "Feature",
+      "id": 13137,
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -122.923304964,
+              41.1959948740001
+            ],
+            [
+              -122.923373993,
+              41.1959937450001
+            ],
+            [
+              -122.923442771,
+              41.195999611
+            ],
+            [
+              -122.923510595,
+              41.1960124070001
+            ],
+            [
+              -122.923576765,
+              41.1960320060001
+            ],
+            [
+              -122.923640608,
+              41.1960582040001
+            ],
+            [
+              -122.923701463,
+              41.1960907320001
+            ],
+            [
+              -122.923758708,
+              41.196129259
+            ],
+            [
+              -122.923811757,
+              41.1961733870001
+            ],
+            [
+              -122.923860063,
+              41.1962226650001
+            ],
+            [
+              -122.923903132,
+              41.1962765860001
+            ],
+            [
+              -122.923940521,
+              41.1963345980001
+            ],
+            [
+              -122.923971847,
+              41.196396103
+            ],
+            [
+              -122.923996789,
+              41.196460474
+            ],
+            [
+              -122.924015091,
+              41.196527046
+            ],
+            [
+              -122.924026564,
+              41.1965951400001
+            ],
+            [
+              -122.924031091,
+              41.196664056
+            ],
+            [
+              -122.924028625,
+              41.1967330840001
+            ],
+            [
+              -122.924019191,
+              41.1968015200001
+            ],
+            [
+              -122.924002889,
+              41.1968686600001
+            ],
+            [
+              -122.923979883,
+              41.196933814
+            ],
+            [
+              -122.92395041,
+              41.1969963130001
+            ],
+            [
+              -122.923914773,
+              41.1970555180001
+            ],
+            [
+              -122.923873337,
+              41.19711082
+            ],
+            [
+              -122.923826527,
+              41.197161652
+            ],
+            [
+              -122.923774824,
+              41.1972074930001
+            ],
+            [
+              -122.923718758,
+              41.1972478710001
+            ],
+            [
+              -122.923658903,
+              41.1972823720001
+            ],
+            [
+              -122.923595877,
+              41.197310643
+            ],
+            [
+              -122.923530323,
+              41.1973323940001
+            ],
+            [
+              -122.923462915,
+              41.197347402
+            ],
+            [
+              -122.923394345,
+              41.197355509
+            ],
+            [
+              -122.923325317,
+              41.197356638
+            ],
+            [
+              -122.923256539,
+              41.197350773
+            ],
+            [
+              -122.923188717,
+              41.1973379770001
+            ],
+            [
+              -122.923122544,
+              41.197318378
+            ],
+            [
+              -122.923058703,
+              41.19729218
+            ],
+            [
+              -122.922997848,
+              41.197259651
+            ],
+            [
+              -122.922940603,
+              41.1972211250001
+            ],
+            [
+              -122.922887554,
+              41.197176997
+            ],
+            [
+              -122.922839248,
+              41.197127719
+            ],
+            [
+              -122.92279618,
+              41.1970737980001
+            ],
+            [
+              -122.922758789,
+              41.1970157870001
+            ],
+            [
+              -122.922727462,
+              41.1969542800001
+            ],
+            [
+              -122.922702521,
+              41.19688991
+            ],
+            [
+              -122.922684219,
+              41.1968233360001
+            ],
+            [
+              -122.922672747,
+              41.196755243
+            ],
+            [
+              -122.922668219,
+              41.1966863270001
+            ],
+            [
+              -122.922670685,
+              41.196617298
+            ],
+            [
+              -122.922680117,
+              41.196548863
+            ],
+            [
+              -122.922696419,
+              41.196481723
+            ],
+            [
+              -122.922719425,
+              41.196416571
+            ],
+            [
+              -122.9227489,
+              41.196354071
+            ],
+            [
+              -122.922784536,
+              41.196294865
+            ],
+            [
+              -122.922825972,
+              41.196239564
+            ],
+            [
+              -122.922872783,
+              41.1961887320001
+            ],
+            [
+              -122.922924486,
+              41.1961428920001
+            ],
+            [
+              -122.922980553,
+              41.196102513
+            ],
+            [
+              -122.923040406,
+              41.1960680110001
+            ],
+            [
+              -122.923103434,
+              41.1960397400001
+            ],
+            [
+              -122.923168987,
+              41.19601799
+            ],
+            [
+              -122.923236394,
+              41.1960029840001
+            ],
+            [
+              -122.923304964,
+              41.1959948740001
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "OBJECTID": 13137,
+        "poly_IncidentName": "Long (River Complex)",
+        "poly_FeatureCategory": "Wildfire Daily Fire Perimeter",
+        "poly_MapMethod": "Mixed Methods",
+        "poly_GISAcres": 0.1,
+        "poly_CreateDate": 1627787252901,
+        "poly_DateCurrent": 1628627565861,
+        "poly_PolygonDateTime": 1627805192000,
+        "poly_Acres_AutoCalc": 3.35488836607564,
+        "poly_GlobalID": "{FE3E8A14-129A-42B4-9390-BAECF8BF7362}",
+        "poly_Source": "2021 NIFS",
+        "irwin_ABCDMisc": null,
+        "irwin_ADSPermissionState": "DEFAULT",
+        "irwin_CalculatedAcres": null,
+        "irwin_ContainmentDateTime": null,
+        "irwin_ControlDateTime": null,
+        "irwin_DailyAcres": null,
+        "irwin_DiscoveryAcres": 0.1,
+        "irwin_DispatchCenterID": "CAYICC",
+        "irwin_EstimatedCostToDate": null,
+        "irwin_FFReportApprovedByTitle": null,
+        "irwin_FFReportApprovedByUnit": null,
+        "irwin_FFReportApprovedDate": null,
+        "irwin_FireBehaviorGeneral": null,
+        "irwin_FireBehaviorGeneral1": null,
+        "irwin_FireBehaviorGeneral2": null,
+        "irwin_FireBehaviorGeneral3": null,
+        "irwin_FireCause": "Undetermined",
+        "irwin_FireCauseGeneral": null,
+        "irwin_FireCauseSpecific": null,
+        "irwin_FireCode": null,
+        "irwin_FireDepartmentID": null,
+        "irwin_FireDiscoveryDateTime": 1627787192000,
+        "irwin_FireMgmtComplexity": null,
+        "irwin_FireOutDateTime": null,
+        "irwin_FSConfinePercent": null,
+        "irwin_FSFullSuppPercent": null,
+        "irwin_FSMonitorPercent": null,
+        "irwin_FSPointZonePercent": null,
+        "irwin_FSJobCode": null,
+        "irwin_FSOverrideCode": null,
+        "irwin_GACC": "ONCC",
+        "irwin_ICS209ReportDateTime": null,
+        "irwin_ICS209RForTimePeriodFrom": null,
+        "irwin_ICS209RForTimePeriodTo": null,
+        "irwin_ICS209ReportStatus": null,
+        "irwin_IncidentManagementOrg": null,
+        "irwin_IncidentName": "LONG",
+        "irwin_IncidentShortDescription": null,
+        "irwin_IncidentTypeCategory": "WF",
+        "irwin_IncidentTypeKind": "FI",
+        "irwin_InitialLatitude": 41.196666,
+        "irwin_InitialLongitude": -122.923333,
+        "irwin_InitialResponseAcres": null,
+        "irwin_InitialResponseDateTime": null,
+        "irwin_IrwinID": "{8B4EC585-5933-4AEF-9F04-E19503AC02F4}",
+        "irwin_IsFireCauseInvestigated": null,
+        "irwin_IsFireCodeRequested": 0,
+        "irwin_IsFSAssisted": 0,
+        "irwin_IsMultiJurisdictional": 0,
+        "irwin_IsReimbursable": 0,
+        "irwin_IsTrespass": 0,
+        "irwin_IsUnifiedCommand": null,
+        "irwin_LocalIncidentIdentifier": "006432",
+        "irwin_PercentContained": null,
+        "irwin_PercentPerToBeContained": null,
+        "irwin_POOCity": null,
+        "irwin_POOCounty": "Siskiyou",
+        "irwin_POODispatchCenterID": "CAYICC",
+        "irwin_POOFips": "06093",
+        "irwin_POOJurisdictionalAgency": "FS",
+        "irwin_POOJurisdictionalUnit": "CAKNF",
+        "irwin_POOJurisdUnitParentUnit": null,
+        "irwin_POOLandownerCategory": "USFS",
+        "irwin_POOLandownerKind": "Federal",
+        "irwin_POOLegalDescPrinMeridian": null,
+        "irwin_POOLegalDescQtr": null,
+        "irwin_POOLegalDescQtrQtr": null,
+        "irwin_POOLegalDescRange": null,
+        "irwin_POOLegalDescSection": null,
+        "irwin_POOLegalDescTownship": null,
+        "irwin_POOPredServiceAreaID": "NC04",
+        "irwin_POOProtectingAgency": "FS",
+        "irwin_POOProtectingUnit": "CAKNF",
+        "irwin_POOState": "US-CA",
+        "irwin_PredominantFuelGroup": null,
+        "irwin_PredominantFuelModel": null,
+        "irwin_PrimaryFuelModel": null,
+        "irwin_SecondaryFuelModel": null,
+        "irwin_TotalIncidentPersonnel": null,
+        "irwin_UniqueFireIdentifier": "2021-CAKNF-006432",
+        "irwin_WFDSSDecisionStatus": "No Decision",
+        "irwin_CreatedBySystem": "cfcad",
+        "irwin_ModifiedBySystem": "cfcad",
+        "irwin_IsDispatchComplete": 0,
+        "irwin_OrganizationalAssessment": null,
+        "irwin_StratDecisionPublishDate": null,
+        "irwin_GlobalID": null,
+        "irwin_Source": "IRWIN",
+        "irwin_ArchivedOn": null,
+        "irwin_ModifiedOnDateTime_dt": 1641401342897,
+        "irwin_CreatedOnDateTime_dt": 1627787250377,
+        "Shape__Area": 1.45735839396366e-06,
+        "Shape__Length": 0.00428128755975268,
+        "GlobalID": "7d2afbc0-66ff-430d-9db8-f54585d9f5c6"
+      }
     }
   ]
 }
