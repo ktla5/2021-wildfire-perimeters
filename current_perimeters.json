@@ -9,286 +9,66 @@
   "features": [
     {
       "type": "Feature",
-      "id": 13143,
+      "id": 14898,
       "geometry": {
         "type": "Polygon",
         "coordinates": [
           [
             [
-              -122.962788512,
-              41.1798113850001
+              -115.979104430721,
+              33.585625641089
             ],
             [
-              -122.962857524,
-              41.1798102320001
+              -115.979088002191,
+              33.5856253617839
             ],
             [
-              -122.962926288,
-              41.179816074
+              -115.979074591146,
+              33.5856222894272
             ],
             [
-              -122.962994103,
-              41.1798288470001
+              -115.979071238384,
+              33.5856119551357
             ],
             [
-              -122.963060269,
-              41.1798484230001
+              -115.979072244213,
+              33.58560413459
             ],
             [
-              -122.963124111,
-              41.1798745990001
+              -115.979087666915,
+              33.5855946382122
             ],
             [
-              -122.963184971,
-              41.1799071070001
+              -115.979106442378,
+              33.5856063690317
             ],
             [
-              -122.963242225,
-              41.1799456140001
-            ],
-            [
-              -122.963295287,
-              41.179989724
-            ],
-            [
-              -122.963343611,
-              41.1800389860001
-            ],
-            [
-              -122.963386702,
-              41.1800928920001
-            ],
-            [
-              -122.963424117,
-              41.180150891
-            ],
-            [
-              -122.963455472,
-              41.1802123860001
-            ],
-            [
-              -122.963480447,
-              41.180276749
-            ],
-            [
-              -122.963498784,
-              41.1803433150001
-            ],
-            [
-              -122.963510295,
-              41.180411405
-            ],
-            [
-              -122.963514863,
-              41.180480319
-            ],
-            [
-              -122.963512439,
-              41.180549349
-            ],
-            [
-              -122.963503049,
-              41.1806177880001
-            ],
-            [
-              -122.963486791,
-              41.1806849340001
-            ],
-            [
-              -122.96346383,
-              41.1807500960001
-            ],
-            [
-              -122.963434402,
-              41.180812605
-            ],
-            [
-              -122.963398809,
-              41.180871822
-            ],
-            [
-              -122.963357416,
-              41.1809271390001
-            ],
-            [
-              -122.963310648,
-              41.1809779870001
-            ],
-            [
-              -122.963258985,
-              41.1810238460001
-            ],
-            [
-              -122.963202957,
-              41.181064243
-            ],
-            [
-              -122.963143138,
-              41.1810987650001
-            ],
-            [
-              -122.963080144,
-              41.1811270580001
-            ],
-            [
-              -122.96301462,
-              41.181148831
-            ],
-            [
-              -122.962947237,
-              41.1811638620001
-            ],
-            [
-              -122.962878689,
-              41.1811719930001
-            ],
-            [
-              -122.962809679,
-              41.181173146
-            ],
-            [
-              -122.962740914,
-              41.181167304
-            ],
-            [
-              -122.9626731,
-              41.1811545320001
-            ],
-            [
-              -122.962606933,
-              41.1811349550001
-            ],
-            [
-              -122.962543091,
-              41.1811087790001
-            ],
-            [
-              -122.962482232,
-              41.181076271
-            ],
-            [
-              -122.962424977,
-              41.181037764
-            ],
-            [
-              -122.962371915,
-              41.1809936540001
-            ],
-            [
-              -122.962323591,
-              41.1809443930001
-            ],
-            [
-              -122.962280501,
-              41.1808904860001
-            ],
-            [
-              -122.962243085,
-              41.180832487
-            ],
-            [
-              -122.962211729,
-              41.1807709920001
-            ],
-            [
-              -122.962186755,
-              41.18070663
-            ],
-            [
-              -122.962168418,
-              41.1806400620001
-            ],
-            [
-              -122.962156907,
-              41.180571973
-            ],
-            [
-              -122.96215234,
-              41.1805030580001
-            ],
-            [
-              -122.962154763,
-              41.180434028
-            ],
-            [
-              -122.962164152,
-              41.1803655900001
-            ],
-            [
-              -122.96218041,
-              41.1802984440001
-            ],
-            [
-              -122.962203371,
-              41.1802332840001
-            ],
-            [
-              -122.962232801,
-              41.180170773
-            ],
-            [
-              -122.962268393,
-              41.1801115550001
-            ],
-            [
-              -122.962309785,
-              41.1800562400001
-            ],
-            [
-              -122.962356554,
-              41.1800053910001
-            ],
-            [
-              -122.962408216,
-              41.1799595330001
-            ],
-            [
-              -122.962464245,
-              41.179919135
-            ],
-            [
-              -122.962524063,
-              41.1798846130001
-            ],
-            [
-              -122.962587058,
-              41.1798563200001
-            ],
-            [
-              -122.962652583,
-              41.179834547
-            ],
-            [
-              -122.962719964,
-              41.1798195170001
-            ],
-            [
-              -122.962788512,
-              41.1798113850001
+              -115.979104430721,
+              33.585625641089
             ]
           ]
         ]
       },
       "properties": {
-        "OBJECTID": 13143,
-        "poly_IncidentName": "Poison (River Complex)",
+        "OBJECTID": 14898,
+        "poly_IncidentName": "BOX",
         "poly_FeatureCategory": "Wildfire Daily Fire Perimeter",
-        "poly_MapMethod": "Auto-generated",
-        "poly_GISAcres": 0.1,
-        "poly_CreateDate": 1627963682546,
-        "poly_DateCurrent": 1642117355293,
-        "poly_PolygonDateTime": 1627874527000,
-        "poly_Acres_AutoCalc": 3.35489086570391,
-        "poly_GlobalID": "{DCB8E389-1B8C-4619-887E-07AC67612162}",
-        "poly_Source": "2021 NIFS",
+        "poly_MapMethod": "Hand Sketch",
+        "poly_GISAcres": null,
+        "poly_CreateDate": 1642274957126,
+        "poly_DateCurrent": 1642274957126,
+        "poly_PolygonDateTime": null,
+        "poly_Acres_AutoCalc": 0.00208629412693409,
+        "poly_GlobalID": "{A48E6E36-3990-4CBE-BCA0-22722A782A4B}",
+        "poly_Source": "2022 NIFS",
         "irwin_ABCDMisc": null,
-        "irwin_ADSPermissionState": "ICS209",
-        "irwin_CalculatedAcres": 3.35,
+        "irwin_ADSPermissionState": "DEFAULT",
+        "irwin_CalculatedAcres": 0.01,
         "irwin_ContainmentDateTime": null,
         "irwin_ControlDateTime": null,
         "irwin_DailyAcres": 0.1,
         "irwin_DiscoveryAcres": 0.1,
-        "irwin_DispatchCenterID": "CAYICC",
+        "irwin_DispatchCenterID": "CASBCC",
         "irwin_EstimatedCostToDate": null,
         "irwin_FFReportApprovedByTitle": null,
         "irwin_FFReportApprovedByUnit": null,
@@ -298,11 +78,11 @@
         "irwin_FireBehaviorGeneral2": null,
         "irwin_FireBehaviorGeneral3": null,
         "irwin_FireCause": "Undetermined",
-        "irwin_FireCauseGeneral": null,
-        "irwin_FireCauseSpecific": null,
-        "irwin_FireCode": null,
+        "irwin_FireCauseGeneral": "Undetermined",
+        "irwin_FireCauseSpecific": "Origin and/or cause not identified",
+        "irwin_FireCode": "PE27",
         "irwin_FireDepartmentID": null,
-        "irwin_FireDiscoveryDateTime": 1627856527000,
+        "irwin_FireDiscoveryDateTime": 1641873600000,
         "irwin_FireMgmtComplexity": null,
         "irwin_FireOutDateTime": null,
         "irwin_FSConfinePercent": null,
@@ -311,39 +91,39 @@
         "irwin_FSPointZonePercent": null,
         "irwin_FSJobCode": null,
         "irwin_FSOverrideCode": null,
-        "irwin_GACC": "ONCC",
+        "irwin_GACC": "OSCC",
         "irwin_ICS209ReportDateTime": null,
         "irwin_ICS209RForTimePeriodFrom": null,
         "irwin_ICS209RForTimePeriodTo": null,
         "irwin_ICS209ReportStatus": null,
         "irwin_IncidentManagementOrg": null,
-        "irwin_IncidentName": "POISON",
+        "irwin_IncidentName": "BOX",
         "irwin_IncidentShortDescription": null,
         "irwin_IncidentTypeCategory": "WF",
         "irwin_IncidentTypeKind": "FI",
-        "irwin_InitialLatitude": 41.180483,
-        "irwin_InitialLongitude": -122.962817,
+        "irwin_InitialLatitude": 33.58561,
+        "irwin_InitialLongitude": -115.9788,
         "irwin_InitialResponseAcres": null,
-        "irwin_InitialResponseDateTime": null,
-        "irwin_IrwinID": "{2B3532CC-4881-4C0C-A55F-82DA11CC1369}",
-        "irwin_IsFireCauseInvestigated": null,
+        "irwin_InitialResponseDateTime": 1641945600000,
+        "irwin_IrwinID": "{C9B3A7EB-BD92-499F-98B5-69CDDF0E6B39}",
+        "irwin_IsFireCauseInvestigated": 1,
         "irwin_IsFireCodeRequested": 0,
-        "irwin_IsFSAssisted": 0,
+        "irwin_IsFSAssisted": 1,
         "irwin_IsMultiJurisdictional": 0,
         "irwin_IsReimbursable": 0,
         "irwin_IsTrespass": 0,
-        "irwin_IsUnifiedCommand": 0,
-        "irwin_LocalIncidentIdentifier": "006468",
-        "irwin_PercentContained": 100,
+        "irwin_IsUnifiedCommand": null,
+        "irwin_LocalIncidentIdentifier": "000854",
+        "irwin_PercentContained": null,
         "irwin_PercentPerToBeContained": null,
         "irwin_POOCity": null,
-        "irwin_POOCounty": "Siskiyou",
-        "irwin_POODispatchCenterID": "CAYICC",
-        "irwin_POOFips": "06093",
-        "irwin_POOJurisdictionalAgency": "FS",
-        "irwin_POOJurisdictionalUnit": "CAKNF",
+        "irwin_POOCounty": "Riverside",
+        "irwin_POODispatchCenterID": "CASBCC",
+        "irwin_POOFips": "06065",
+        "irwin_POOJurisdictionalAgency": "BLM",
+        "irwin_POOJurisdictionalUnit": "CACDD",
         "irwin_POOJurisdUnitParentUnit": null,
-        "irwin_POOLandownerCategory": "USFS",
+        "irwin_POOLandownerCategory": "BLM",
         "irwin_POOLandownerKind": "Federal",
         "irwin_POOLegalDescPrinMeridian": null,
         "irwin_POOLegalDescQtr": null,
@@ -351,33 +131,33 @@
         "irwin_POOLegalDescRange": null,
         "irwin_POOLegalDescSection": null,
         "irwin_POOLegalDescTownship": null,
-        "irwin_POOPredServiceAreaID": "NC04",
-        "irwin_POOProtectingAgency": "FS",
-        "irwin_POOProtectingUnit": "CAKNF",
+        "irwin_POOPredServiceAreaID": "SC12",
+        "irwin_POOProtectingAgency": "BLM",
+        "irwin_POOProtectingUnit": "CACDD",
         "irwin_POOState": "US-CA",
-        "irwin_PredominantFuelGroup": null,
-        "irwin_PredominantFuelModel": null,
+        "irwin_PredominantFuelGroup": "Grass",
+        "irwin_PredominantFuelModel": "GR1",
         "irwin_PrimaryFuelModel": null,
         "irwin_SecondaryFuelModel": null,
         "irwin_TotalIncidentPersonnel": null,
-        "irwin_UniqueFireIdentifier": "2021-CAKNF-006468",
+        "irwin_UniqueFireIdentifier": "2022-CACDD-000854",
         "irwin_WFDSSDecisionStatus": "No Decision",
-        "irwin_CreatedBySystem": "cfcad",
-        "irwin_ModifiedBySystem": "INFORM_Inspector",
+        "irwin_CreatedBySystem": "wildcad",
+        "irwin_ModifiedBySystem": "wildcad",
         "irwin_IsDispatchComplete": 0,
         "irwin_OrganizationalAssessment": null,
         "irwin_StratDecisionPublishDate": null,
         "irwin_GlobalID": null,
         "irwin_Source": "IRWIN",
         "irwin_ArchivedOn": null,
-        "irwin_ModifiedOnDateTime_dt": 1642115185620,
-        "irwin_CreatedOnDateTime_dt": 1627963671117,
-        "Shape__Area": 1.45700596476672e-06,
-        "Shape__Length": 0.00428076785592624,
-        "GlobalID": "d8d6c112-0d99-4e40-b3cf-08c958a37a5e",
-        "irwin_IsCpxChild": 1,
-        "irwin_CpxName": "RIVER COMPLEX",
-        "irwin_CpxID": "{0B29DF1A-7790-44CB-B735-ABDEAE0615CC}"
+        "irwin_ModifiedOnDateTime_dt": 1642358668137,
+        "irwin_CreatedOnDateTime_dt": 1641956311070,
+        "Shape__Area": 8.19909473648295e-10,
+        "Shape__Length": 0.000108566439609677,
+        "GlobalID": "1e23b4b3-e5f3-46f8-8579-b16598decd98",
+        "irwin_IsCpxChild": 0,
+        "irwin_CpxName": null,
+        "irwin_CpxID": null
       }
     }
   ]
