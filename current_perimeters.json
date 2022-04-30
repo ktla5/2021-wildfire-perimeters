@@ -6,5 +6,287 @@
       "name": "EPSG:4326"
     }
   },
-  "features": []
+  "features": [
+    {
+      "type": "Feature",
+      "id": 15310,
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -117.504708298958,
+              33.5907835218932
+            ],
+            [
+              -117.50480230328,
+              33.5909107714713
+            ],
+            [
+              -117.504714173832,
+              33.5912827309423
+            ],
+            [
+              -117.504620168245,
+              33.5913806145468
+            ],
+            [
+              -117.504628395371,
+              33.5914735865429
+            ],
+            [
+              -117.504691053173,
+              33.5915212429913
+            ],
+            [
+              -117.504658361928,
+              33.5916959815859
+            ],
+            [
+              -117.504571184887,
+              33.591818524996
+            ],
+            [
+              -117.504459489105,
+              33.5918525642661
+            ],
+            [
+              -117.504440420453,
+              33.5919297210972
+            ],
+            [
+              -117.504102609126,
+              33.592558320281
+            ],
+            [
+              -117.504083540278,
+              33.5927126319949
+            ],
+            [
+              -117.504059021735,
+              33.5927852500762
+            ],
+            [
+              -117.504118955465,
+              33.5930076399779
+            ],
+            [
+              -117.503762075634,
+              33.5928510590415
+            ],
+            [
+              -117.503584997845,
+              33.5925515121068
+            ],
+            [
+              -117.503470577756,
+              33.5924698173128
+            ],
+            [
+              -117.503143664617,
+              33.5923177732803
+            ],
+            [
+              -117.503124596079,
+              33.5921226125365
+            ],
+            [
+              -117.503078282927,
+              33.5920363792294
+            ],
+            [
+              -117.502977484789,
+              33.5917073278216
+            ],
+            [
+              -117.502841270697,
+              33.591705058435
+            ],
+            [
+              -117.502680295488,
+              33.5915754208452
+            ],
+            [
+              -117.502503217018,
+              33.5913779881285
+            ],
+            [
+              -117.502386073117,
+              33.59116467061
+            ],
+            [
+              -117.502413316223,
+              33.5910897831873
+            ],
+            [
+              -117.502508665337,
+              33.591019433171
+            ],
+            [
+              -117.502721159683,
+              33.5910580119572
+            ],
+            [
+              -117.502914583295,
+              33.5910239723426
+            ],
+            [
+              -117.50295544598,
+              33.5909695078113
+            ],
+            [
+              -117.502947273633,
+              33.5906495293166
+            ],
+            [
+              -117.502952722479,
+              33.5905859878306
+            ],
+            [
+              -117.503053521061,
+              33.5904815974992
+            ],
+            [
+              -117.503421297451,
+              33.590420325115
+            ],
+            [
+              -117.503552062747,
+              33.5903681297096
+            ],
+            [
+              -117.503644687428,
+              33.5903953626755
+            ],
+            [
+              -117.503805420488,
+              33.590345435901
+            ],
+            [
+              -117.503982498866,
+              33.5904044391047
+            ],
+            [
+              -117.504682671939,
+              33.5907259042892
+            ],
+            [
+              -117.504708298958,
+              33.5907835218932
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "OBJECTID": 15310,
+        "poly_IncidentName": "San Juan",
+        "poly_FeatureCategory": "Wildfire Daily Fire Perimeter",
+        "poly_MapMethod": "Mixed Methods",
+        "poly_GISAcres": 9.09527492226003,
+        "poly_CreateDate": 1646365912446,
+        "poly_DateCurrent": 1646366998000,
+        "poly_PolygonDateTime": null,
+        "poly_Acres_AutoCalc": 9.0952408568294,
+        "poly_GlobalID": "{073BF5A3-5D7A-408A-9761-B91F4190BFB8}",
+        "poly_Source": "2022 NIFS",
+        "irwin_ABCDMisc": null,
+        "irwin_ADSPermissionState": "DEFAULT",
+        "irwin_CalculatedAcres": null,
+        "irwin_ContainmentDateTime": null,
+        "irwin_ControlDateTime": null,
+        "irwin_DailyAcres": 9,
+        "irwin_DiscoveryAcres": 9,
+        "irwin_DispatchCenterID": "CASDIC",
+        "irwin_EstimatedCostToDate": null,
+        "irwin_FFReportApprovedByTitle": null,
+        "irwin_FFReportApprovedByUnit": null,
+        "irwin_FFReportApprovedDate": null,
+        "irwin_FireBehaviorGeneral": null,
+        "irwin_FireBehaviorGeneral1": null,
+        "irwin_FireBehaviorGeneral2": null,
+        "irwin_FireBehaviorGeneral3": null,
+        "irwin_FireCause": "Undetermined",
+        "irwin_FireCauseGeneral": null,
+        "irwin_FireCauseSpecific": null,
+        "irwin_FireCode": "PG16",
+        "irwin_FireDepartmentID": null,
+        "irwin_FireDiscoveryDateTime": 1646337780000,
+        "irwin_FireMgmtComplexity": null,
+        "irwin_FireOutDateTime": null,
+        "irwin_FSConfinePercent": null,
+        "irwin_FSFullSuppPercent": null,
+        "irwin_FSMonitorPercent": null,
+        "irwin_FSPointZonePercent": null,
+        "irwin_FSJobCode": "P5",
+        "irwin_FSOverrideCode": "0502",
+        "irwin_GACC": "OSCC",
+        "irwin_ICS209ReportDateTime": null,
+        "irwin_ICS209RForTimePeriodFrom": null,
+        "irwin_ICS209RForTimePeriodTo": null,
+        "irwin_ICS209ReportStatus": null,
+        "irwin_IncidentManagementOrg": null,
+        "irwin_IncidentName": "SAN JUAN",
+        "irwin_IncidentShortDescription": null,
+        "irwin_IncidentTypeCategory": "WF",
+        "irwin_IncidentTypeKind": "FI",
+        "irwin_InitialLatitude": 33.59357,
+        "irwin_InitialLongitude": -117.5116,
+        "irwin_InitialResponseAcres": 9,
+        "irwin_InitialResponseDateTime": null,
+        "irwin_IrwinID": "{A940D95F-B52B-48A2-B587-D2ADC7A4C4C4}",
+        "irwin_IsFireCauseInvestigated": null,
+        "irwin_IsFireCodeRequested": 0,
+        "irwin_IsFSAssisted": 0,
+        "irwin_IsMultiJurisdictional": 0,
+        "irwin_IsReimbursable": 0,
+        "irwin_IsTrespass": 1,
+        "irwin_IsUnifiedCommand": null,
+        "irwin_LocalIncidentIdentifier": "000412",
+        "irwin_PercentContained": null,
+        "irwin_PercentPerToBeContained": null,
+        "irwin_POOCity": null,
+        "irwin_POOCounty": "Orange",
+        "irwin_POODispatchCenterID": "CAMVIC",
+        "irwin_POOFips": "06059",
+        "irwin_POOJurisdictionalAgency": "FS",
+        "irwin_POOJurisdictionalUnit": "CACNF",
+        "irwin_POOJurisdUnitParentUnit": null,
+        "irwin_POOLandownerCategory": "USFS",
+        "irwin_POOLandownerKind": "Federal",
+        "irwin_POOLegalDescPrinMeridian": null,
+        "irwin_POOLegalDescQtr": null,
+        "irwin_POOLegalDescQtrQtr": null,
+        "irwin_POOLegalDescRange": null,
+        "irwin_POOLegalDescSection": null,
+        "irwin_POOLegalDescTownship": null,
+        "irwin_POOPredServiceAreaID": "SC08",
+        "irwin_POOProtectingAgency": "FS",
+        "irwin_POOProtectingUnit": "CACNF",
+        "irwin_POOState": "US-CA",
+        "irwin_PredominantFuelGroup": null,
+        "irwin_PredominantFuelModel": null,
+        "irwin_PrimaryFuelModel": null,
+        "irwin_SecondaryFuelModel": null,
+        "irwin_TotalIncidentPersonnel": null,
+        "irwin_UniqueFireIdentifier": "2022-CACNF-000412",
+        "irwin_WFDSSDecisionStatus": "No Decision",
+        "irwin_CreatedBySystem": "wildcad",
+        "irwin_ModifiedBySystem": "wildcad",
+        "irwin_IsDispatchComplete": 0,
+        "irwin_OrganizationalAssessment": null,
+        "irwin_StratDecisionPublishDate": null,
+        "irwin_GlobalID": null,
+        "irwin_Source": "IRWIN",
+        "irwin_ArchivedOn": null,
+        "irwin_ModifiedOnDateTime_dt": 1651258132647,
+        "irwin_CreatedOnDateTime_dt": 1646352242587,
+        "Shape__Area": 3.57503017767158e-06,
+        "Shape__Length": 0.00828340476735764,
+        "GlobalID": "98095c5d-1a42-44f6-94d6-2b21e24f15b2",
+        "irwin_IsCpxChild": 0,
+        "irwin_CpxName": null,
+        "irwin_CpxID": null
+      }
+    }
+  ]
 }
