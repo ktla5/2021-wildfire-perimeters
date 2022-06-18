@@ -6434,7 +6434,7 @@
         "irwin_FFReportApprovedDate": null,
         "irwin_FireBehaviorGeneral": "Minimal",
         "irwin_FireBehaviorGeneral1": "Creeping",
-        "irwin_FireBehaviorGeneral2": "Backing",
+        "irwin_FireBehaviorGeneral2": "Smoldering",
         "irwin_FireBehaviorGeneral3": "Smoldering",
         "irwin_FireCause": "Undetermined",
         "irwin_FireCauseGeneral": null,
@@ -6442,7 +6442,7 @@
         "irwin_FireCode": "PP6U",
         "irwin_FireDepartmentID": null,
         "irwin_FireDiscoveryDateTime": 1654997760000,
-        "irwin_FireMgmtComplexity": "Type 2 Incident",
+        "irwin_FireMgmtComplexity": "Type 3 Incident",
         "irwin_FireOutDateTime": null,
         "irwin_FSConfinePercent": 0,
         "irwin_FSFullSuppPercent": 100,
@@ -6451,11 +6451,11 @@
         "irwin_FSJobCode": null,
         "irwin_FSOverrideCode": null,
         "irwin_GACC": "OSCC",
-        "irwin_ICS209ReportDateTime": 1655415000000,
-        "irwin_ICS209RForTimePeriodFrom": 1655384400000,
-        "irwin_ICS209RForTimePeriodTo": 1655415000000,
+        "irwin_ICS209ReportDateTime": 1655512200000,
+        "irwin_ICS209RForTimePeriodFrom": 1655470800000,
+        "irwin_ICS209RForTimePeriodTo": 1655512200000,
         "irwin_ICS209ReportStatus": "U",
-        "irwin_IncidentManagementOrg": "Type 2 Team",
+        "irwin_IncidentManagementOrg": "Type 3 Team",
         "irwin_IncidentName": "SHEEP",
         "irwin_IncidentShortDescription": "City of Wrightwood",
         "irwin_IncidentTypeCategory": "WF",
@@ -6473,7 +6473,7 @@
         "irwin_IsTrespass": 1,
         "irwin_IsUnifiedCommand": 0,
         "irwin_LocalIncidentIdentifier": "001704",
-        "irwin_PercentContained": 90,
+        "irwin_PercentContained": 95,
         "irwin_PercentPerToBeContained": 100,
         "irwin_POOCity": "Wrightwood",
         "irwin_POOCounty": "San Bernardino",
@@ -6498,7 +6498,7 @@
         "irwin_PredominantFuelModel": null,
         "irwin_PrimaryFuelModel": "Brush (2 feet)",
         "irwin_SecondaryFuelModel": "Timber (Grass and Understory)",
-        "irwin_TotalIncidentPersonnel": 399,
+        "irwin_TotalIncidentPersonnel": 398,
         "irwin_UniqueFireIdentifier": "2022-CAANF-001704",
         "irwin_WFDSSDecisionStatus": "Approved Decision",
         "irwin_CreatedBySystem": "wildcad",
@@ -6509,7 +6509,7 @@
         "irwin_GlobalID": null,
         "irwin_Source": "IRWIN",
         "irwin_ArchivedOn": null,
-        "irwin_ModifiedOnDateTime_dt": 1655427500323,
+        "irwin_ModifiedOnDateTime_dt": 1655513153717,
         "irwin_CreatedOnDateTime_dt": 1654999418767,
         "Shape__Area": 0.000343112439395554,
         "Shape__Length": 0.129518279710578,
@@ -11622,10 +11622,10 @@
         "irwin_CalculatedAcres": null,
         "irwin_ContainmentDateTime": null,
         "irwin_ControlDateTime": null,
-        "irwin_DailyAcres": 13.2,
+        "irwin_DailyAcres": 11.2,
         "irwin_DiscoveryAcres": 0.1,
         "irwin_DispatchCenterID": "CAANCC",
-        "irwin_EstimatedCostToDate": 365000,
+        "irwin_EstimatedCostToDate": 385000,
         "irwin_FFReportApprovedByTitle": null,
         "irwin_FFReportApprovedByUnit": null,
         "irwin_FFReportApprovedDate": null,
@@ -11648,9 +11648,9 @@
         "irwin_FSJobCode": null,
         "irwin_FSOverrideCode": null,
         "irwin_GACC": "OSCC",
-        "irwin_ICS209ReportDateTime": 1655481600000,
-        "irwin_ICS209RForTimePeriodFrom": 1655427600000,
-        "irwin_ICS209RForTimePeriodTo": 1655481600000,
+        "irwin_ICS209ReportDateTime": 1655514000000,
+        "irwin_ICS209RForTimePeriodFrom": 1655470800000,
+        "irwin_ICS209RForTimePeriodTo": 1655514000000,
         "irwin_ICS209ReportStatus": "U",
         "irwin_IncidentManagementOrg": "Type 4 IC",
         "irwin_IncidentName": "SIERRA",
@@ -11706,11 +11706,304 @@
         "irwin_GlobalID": null,
         "irwin_Source": "IRWIN",
         "irwin_ArchivedOn": null,
-        "irwin_ModifiedOnDateTime_dt": 1655483395277,
+        "irwin_ModifiedOnDateTime_dt": 1655515682980,
         "irwin_CreatedOnDateTime_dt": 1655329107460,
         "Shape__Area": 4.06657136409194e-06,
         "Shape__Length": 0.0175723998986338,
         "GlobalID": "b387c64a-bd8b-4d05-b061-a51bd7a5ddb8",
+        "irwin_IsCpxChild": 0,
+        "irwin_CpxName": null,
+        "irwin_CpxID": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 17145,
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -119.538739550472,
+              37.7723143113845
+            ],
+            [
+              -119.53872818633,
+              37.7722417590241
+            ],
+            [
+              -119.538640529521,
+              37.7718975461026
+            ],
+            [
+              -119.538578759605,
+              37.7715982338755
+            ],
+            [
+              -119.538678379702,
+              37.7712962229575
+            ],
+            [
+              -119.538724256654,
+              37.771084514789
+            ],
+            [
+              -119.539110910485,
+              37.7707581149811
+            ],
+            [
+              -119.539357651241,
+              37.7703753077328
+            ],
+            [
+              -119.539570935931,
+              37.7700744585315
+            ],
+            [
+              -119.539628812301,
+              37.7699928203993
+            ],
+            [
+              -119.539972153356,
+              37.7696368973211
+            ],
+            [
+              -119.539988204809,
+              37.769626888605
+            ],
+            [
+              -119.540424698566,
+              37.7693547075936
+            ],
+            [
+              -119.540942926568,
+              37.7691942373359
+            ],
+            [
+              -119.541444248689,
+              37.7692061608691
+            ],
+            [
+              -119.541784818827,
+              37.7694051938013
+            ],
+            [
+              -119.541904279786,
+              37.7697886303729
+            ],
+            [
+              -119.541888205741,
+              37.7700810217629
+            ],
+            [
+              -119.541811008534,
+              37.7705176183425
+            ],
+            [
+              -119.541672613827,
+              37.7709434392788
+            ],
+            [
+              -119.541440211079,
+              37.771355890811
+            ],
+            [
+              -119.54107215522,
+              37.7717567603987
+            ],
+            [
+              -119.540719345358,
+              37.7721607673837
+            ],
+            [
+              -119.540419193257,
+              37.7725869002593
+            ],
+            [
+              -119.540086851383,
+              37.7730368850318
+            ],
+            [
+              -119.539671616442,
+              37.7735006736905
+            ],
+            [
+              -119.539238594535,
+              37.7739754188901
+            ],
+            [
+              -119.538827228614,
+              37.7744382850105
+            ],
+            [
+              -119.538443177511,
+              37.7748704965802
+            ],
+            [
+              -119.538159876958,
+              37.7752749081123
+            ],
+            [
+              -119.537853174751,
+              37.7756143393325
+            ],
+            [
+              -119.53752024301,
+              37.7758189416996
+            ],
+            [
+              -119.537209860512,
+              37.7757769320985
+            ],
+            [
+              -119.53710224691,
+              37.775446568245
+            ],
+            [
+              -119.537196750592,
+              37.7749894927114
+            ],
+            [
+              -119.537269523405,
+              37.7745563779359
+            ],
+            [
+              -119.537424203651,
+              37.7741406899463
+            ],
+            [
+              -119.537706861642,
+              37.7737582817714
+            ],
+            [
+              -119.538075710492,
+              37.7734462567148
+            ],
+            [
+              -119.538473077961,
+              37.7732063176202
+            ],
+            [
+              -119.538722164293,
+              37.772938898603
+            ],
+            [
+              -119.538785325882,
+              37.7726065657405
+            ],
+            [
+              -119.538739550472,
+              37.7723143113845
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "OBJECTID": 17145,
+        "poly_IncidentName": "SNOW",
+        "poly_FeatureCategory": "Wildfire Daily Fire Perimeter",
+        "poly_MapMethod": "GPS-Flight",
+        "poly_GISAcres": 29.0699354339397,
+        "poly_CreateDate": 1655429297397,
+        "poly_DateCurrent": 1655494973000,
+        "poly_PolygonDateTime": 1655444410000,
+        "poly_Acres_AutoCalc": 29.0572551272088,
+        "poly_GlobalID": "{2D4413D5-B240-4A43-BAF3-683BC3401E99}",
+        "poly_Source": "2022 NIFS",
+        "irwin_ABCDMisc": null,
+        "irwin_ADSPermissionState": "DEFAULT",
+        "irwin_CalculatedAcres": null,
+        "irwin_ContainmentDateTime": null,
+        "irwin_ControlDateTime": null,
+        "irwin_DailyAcres": 1,
+        "irwin_DiscoveryAcres": 3,
+        "irwin_DispatchCenterID": "CAYPCC",
+        "irwin_EstimatedCostToDate": null,
+        "irwin_FFReportApprovedByTitle": null,
+        "irwin_FFReportApprovedByUnit": null,
+        "irwin_FFReportApprovedDate": null,
+        "irwin_FireBehaviorGeneral": null,
+        "irwin_FireBehaviorGeneral1": null,
+        "irwin_FireBehaviorGeneral2": null,
+        "irwin_FireBehaviorGeneral3": null,
+        "irwin_FireCause": "Undetermined",
+        "irwin_FireCauseGeneral": null,
+        "irwin_FireCauseSpecific": null,
+        "irwin_FireCode": "PQR5",
+        "irwin_FireDepartmentID": null,
+        "irwin_FireDiscoveryDateTime": 1655426400000,
+        "irwin_FireMgmtComplexity": null,
+        "irwin_FireOutDateTime": null,
+        "irwin_FSConfinePercent": null,
+        "irwin_FSFullSuppPercent": null,
+        "irwin_FSMonitorPercent": null,
+        "irwin_FSPointZonePercent": null,
+        "irwin_FSJobCode": null,
+        "irwin_FSOverrideCode": null,
+        "irwin_GACC": "OSCC",
+        "irwin_ICS209ReportDateTime": null,
+        "irwin_ICS209RForTimePeriodFrom": null,
+        "irwin_ICS209RForTimePeriodTo": null,
+        "irwin_ICS209ReportStatus": null,
+        "irwin_IncidentManagementOrg": null,
+        "irwin_IncidentName": "SNOW",
+        "irwin_IncidentShortDescription": null,
+        "irwin_IncidentTypeCategory": "WF",
+        "irwin_IncidentTypeKind": "FI",
+        "irwin_InitialLatitude": 37.77032,
+        "irwin_InitialLongitude": -119.5394,
+        "irwin_InitialResponseAcres": null,
+        "irwin_InitialResponseDateTime": null,
+        "irwin_IrwinID": "{A31CCD79-E21B-4902-94B8-9B7E40F3535E}",
+        "irwin_IsFireCauseInvestigated": null,
+        "irwin_IsFireCodeRequested": 0,
+        "irwin_IsFSAssisted": 1,
+        "irwin_IsMultiJurisdictional": 0,
+        "irwin_IsReimbursable": 0,
+        "irwin_IsTrespass": 0,
+        "irwin_IsUnifiedCommand": null,
+        "irwin_LocalIncidentIdentifier": "000026",
+        "irwin_PercentContained": null,
+        "irwin_PercentPerToBeContained": null,
+        "irwin_POOCity": null,
+        "irwin_POOCounty": "Mariposa",
+        "irwin_POODispatchCenterID": "CAYPCC",
+        "irwin_POOFips": "06043",
+        "irwin_POOJurisdictionalAgency": "NPS",
+        "irwin_POOJurisdictionalUnit": "CAYNP",
+        "irwin_POOJurisdUnitParentUnit": null,
+        "irwin_POOLandownerCategory": "NPS",
+        "irwin_POOLandownerKind": "Federal",
+        "irwin_POOLegalDescPrinMeridian": null,
+        "irwin_POOLegalDescQtr": null,
+        "irwin_POOLegalDescQtrQtr": null,
+        "irwin_POOLegalDescRange": null,
+        "irwin_POOLegalDescSection": null,
+        "irwin_POOLegalDescTownship": null,
+        "irwin_POOPredServiceAreaID": "SC02",
+        "irwin_POOProtectingAgency": "NPS",
+        "irwin_POOProtectingUnit": "CAYNP",
+        "irwin_POOState": "US-CA",
+        "irwin_PredominantFuelGroup": null,
+        "irwin_PredominantFuelModel": null,
+        "irwin_PrimaryFuelModel": null,
+        "irwin_SecondaryFuelModel": null,
+        "irwin_TotalIncidentPersonnel": null,
+        "irwin_UniqueFireIdentifier": "2022-CAYNP-000026",
+        "irwin_WFDSSDecisionStatus": "No Decision",
+        "irwin_CreatedBySystem": "wildcad",
+        "irwin_ModifiedBySystem": "wildcad",
+        "irwin_IsDispatchComplete": 0,
+        "irwin_OrganizationalAssessment": null,
+        "irwin_StratDecisionPublishDate": null,
+        "irwin_GlobalID": null,
+        "irwin_Source": "IRWIN",
+        "irwin_ArchivedOn": null,
+        "irwin_ModifiedOnDateTime_dt": 1655494277660,
+        "irwin_CreatedOnDateTime_dt": 1655429294387,
+        "Shape__Area": 1.20250820145884e-05,
+        "Shape__Length": 0.0176227284231914,
+        "GlobalID": "8756d441-a7c5-406b-8f76-91b2b5752aad",
         "irwin_IsCpxChild": 0,
         "irwin_CpxName": null,
         "irwin_CpxID": null
