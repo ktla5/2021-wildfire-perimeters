@@ -9686,263 +9686,6 @@
     },
     {
       "type": "Feature",
-      "id": 17119,
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              -118.926132536,
-              34.3195203080001
-            ],
-            [
-              -118.926137039,
-              34.319520955
-            ],
-            [
-              -118.926144322,
-              34.3194872
-            ],
-            [
-              -118.926175653,
-              34.3194569180001
-            ],
-            [
-              -118.926215253,
-              34.319443601
-            ],
-            [
-              -118.926259615,
-              34.319434787
-            ],
-            [
-              -118.926297297,
-              34.319419469
-            ],
-            [
-              -118.926334929,
-              34.319413893
-            ],
-            [
-              -118.926371465,
-              34.319426606
-            ],
-            [
-              -118.926419843,
-              34.3194474370001
-            ],
-            [
-              -118.926383045,
-              34.3194604600001
-            ],
-            [
-              -118.926425883,
-              34.319466586
-            ],
-            [
-              -118.926397377,
-              34.319489907
-            ],
-            [
-              -118.92643389,
-              34.319494397
-            ],
-            [
-              -118.926469189,
-              34.319503459
-            ],
-            [
-              -118.926466341,
-              34.3195328310001
-            ],
-            [
-              -118.926441458,
-              34.3195521120001
-            ],
-            [
-              -118.926462209,
-              34.319583181
-            ],
-            [
-              -118.926457896,
-              34.319617157
-            ],
-            [
-              -118.926420304,
-              34.319617679
-            ],
-            [
-              -118.926380307,
-              34.31963153
-            ],
-            [
-              -118.926379176,
-              34.319668766
-            ],
-            [
-              -118.926365631,
-              34.319696718
-            ],
-            [
-              -118.926340528,
-              34.319717923
-            ],
-            [
-              -118.92629495,
-              34.319715156
-            ],
-            [
-              -118.926265719,
-              34.3196986930001
-            ],
-            [
-              -118.926255446,
-              34.3196698670001
-            ],
-            [
-              -118.92621481,
-              34.31966866
-            ],
-            [
-              -118.926181392,
-              34.319652454
-            ],
-            [
-              -118.926167113,
-              34.3196259600001
-            ],
-            [
-              -118.9261386,
-              34.3196046240001
-            ],
-            [
-              -118.926121529,
-              34.3195793990001
-            ],
-            [
-              -118.92611776,
-              34.3195485150001
-            ],
-            [
-              -118.926132536,
-              34.3195203080001
-            ]
-          ]
-        ]
-      },
-      "properties": {
-        "OBJECTID": 17119,
-        "poly_IncidentName": "Stockton",
-        "poly_FeatureCategory": "Wildfire Daily Fire Perimeter",
-        "poly_MapMethod": "GPS-Walked",
-        "poly_GISAcres": 0.17874213327564,
-        "poly_CreateDate": 1655307936776,
-        "poly_DateCurrent": 1655307988206,
-        "poly_PolygonDateTime": null,
-        "poly_Acres_AutoCalc": 0.178745717296613,
-        "poly_GlobalID": "{FDE6ECFA-5BBE-44FF-8C8B-63E63CC0ED7C}",
-        "poly_Source": "2022 NIFS",
-        "irwin_ABCDMisc": null,
-        "irwin_ADSPermissionState": "DEFAULT",
-        "irwin_CalculatedAcres": null,
-        "irwin_ContainmentDateTime": null,
-        "irwin_ControlDateTime": null,
-        "irwin_DailyAcres": null,
-        "irwin_DiscoveryAcres": null,
-        "irwin_DispatchCenterID": "CAXVEC",
-        "irwin_EstimatedCostToDate": null,
-        "irwin_FFReportApprovedByTitle": null,
-        "irwin_FFReportApprovedByUnit": null,
-        "irwin_FFReportApprovedDate": null,
-        "irwin_FireBehaviorGeneral": null,
-        "irwin_FireBehaviorGeneral1": null,
-        "irwin_FireBehaviorGeneral2": null,
-        "irwin_FireBehaviorGeneral3": null,
-        "irwin_FireCause": null,
-        "irwin_FireCauseGeneral": null,
-        "irwin_FireCauseSpecific": null,
-        "irwin_FireCode": null,
-        "irwin_FireDepartmentID": null,
-        "irwin_FireDiscoveryDateTime": 1655300700000,
-        "irwin_FireMgmtComplexity": null,
-        "irwin_FireOutDateTime": null,
-        "irwin_FSConfinePercent": null,
-        "irwin_FSFullSuppPercent": null,
-        "irwin_FSMonitorPercent": null,
-        "irwin_FSPointZonePercent": null,
-        "irwin_FSJobCode": null,
-        "irwin_FSOverrideCode": null,
-        "irwin_GACC": "OSCC",
-        "irwin_ICS209ReportDateTime": null,
-        "irwin_ICS209RForTimePeriodFrom": null,
-        "irwin_ICS209RForTimePeriodTo": null,
-        "irwin_ICS209ReportStatus": null,
-        "irwin_IncidentManagementOrg": null,
-        "irwin_IncidentName": "STOCKTON INC",
-        "irwin_IncidentShortDescription": null,
-        "irwin_IncidentTypeCategory": "WF",
-        "irwin_IncidentTypeKind": "FI",
-        "irwin_InitialLatitude": null,
-        "irwin_InitialLongitude": null,
-        "irwin_InitialResponseAcres": null,
-        "irwin_InitialResponseDateTime": null,
-        "irwin_IrwinID": "{F43D2A79-3A25-4EA7-A6EE-F77C9BC11714}",
-        "irwin_IsFireCauseInvestigated": null,
-        "irwin_IsFireCodeRequested": 0,
-        "irwin_IsFSAssisted": null,
-        "irwin_IsMultiJurisdictional": null,
-        "irwin_IsReimbursable": null,
-        "irwin_IsTrespass": null,
-        "irwin_IsUnifiedCommand": null,
-        "irwin_LocalIncidentIdentifier": "VNC-52067",
-        "irwin_PercentContained": null,
-        "irwin_PercentPerToBeContained": null,
-        "irwin_POOCity": null,
-        "irwin_POOCounty": "Ventura",
-        "irwin_POODispatchCenterID": "CAVNCC",
-        "irwin_POOFips": "06111",
-        "irwin_POOJurisdictionalAgency": null,
-        "irwin_POOJurisdictionalUnit": null,
-        "irwin_POOJurisdUnitParentUnit": null,
-        "irwin_POOLandownerCategory": "Private",
-        "irwin_POOLandownerKind": "Private",
-        "irwin_POOLegalDescPrinMeridian": null,
-        "irwin_POOLegalDescQtr": null,
-        "irwin_POOLegalDescQtrQtr": null,
-        "irwin_POOLegalDescRange": null,
-        "irwin_POOLegalDescSection": null,
-        "irwin_POOLegalDescTownship": null,
-        "irwin_POOPredServiceAreaID": "SC08",
-        "irwin_POOProtectingAgency": "OES",
-        "irwin_POOProtectingUnit": "CAXVE",
-        "irwin_POOState": "US-CA",
-        "irwin_PredominantFuelGroup": null,
-        "irwin_PredominantFuelModel": null,
-        "irwin_PrimaryFuelModel": null,
-        "irwin_SecondaryFuelModel": null,
-        "irwin_TotalIncidentPersonnel": null,
-        "irwin_UniqueFireIdentifier": "2022-CAXVE-VNC-52067",
-        "irwin_WFDSSDecisionStatus": "No Decision",
-        "irwin_CreatedBySystem": "IROC",
-        "irwin_ModifiedBySystem": "IROC",
-        "irwin_IsDispatchComplete": 0,
-        "irwin_OrganizationalAssessment": null,
-        "irwin_StratDecisionPublishDate": null,
-        "irwin_GlobalID": null,
-        "irwin_Source": "IRWIN",
-        "irwin_ArchivedOn": null,
-        "irwin_ModifiedOnDateTime_dt": 1655300941123,
-        "irwin_CreatedOnDateTime_dt": 1655300941123,
-        "Shape__Area": 7.08507741364883e-08,
-        "Shape__Length": 0.00119253486055418,
-        "GlobalID": "76ab9f95-e553-4216-a591-9b595655eaca",
-        "irwin_IsCpxChild": 0,
-        "irwin_CpxName": null,
-        "irwin_CpxID": null
-      }
-    },
-    {
-      "type": "Feature",
       "id": 17131,
       "geometry": {
         "type": "MultiPolygon",
@@ -11648,9 +11391,9 @@
         "irwin_FSJobCode": null,
         "irwin_FSOverrideCode": null,
         "irwin_GACC": "OSCC",
-        "irwin_ICS209ReportDateTime": 1655514000000,
-        "irwin_ICS209RForTimePeriodFrom": 1655470800000,
-        "irwin_ICS209RForTimePeriodTo": 1655514000000,
+        "irwin_ICS209ReportDateTime": 1655564400000,
+        "irwin_ICS209RForTimePeriodFrom": 1655514000000,
+        "irwin_ICS209RForTimePeriodTo": 1655564400000,
         "irwin_ICS209ReportStatus": "U",
         "irwin_IncidentManagementOrg": "Type 4 IC",
         "irwin_IncidentName": "SIERRA",
@@ -11670,9 +11413,9 @@
         "irwin_IsTrespass": 1,
         "irwin_IsUnifiedCommand": 0,
         "irwin_LocalIncidentIdentifier": "001752",
-        "irwin_PercentContained": 95,
+        "irwin_PercentContained": 97,
         "irwin_PercentPerToBeContained": 100,
-        "irwin_POOCity": "Santa Clarita",
+        "irwin_POOCity": "SANTA CLARITA",
         "irwin_POOCounty": "Los Angeles",
         "irwin_POODispatchCenterID": "CAANCC",
         "irwin_POOFips": "06037",
@@ -11684,9 +11427,9 @@
         "irwin_POOLegalDescPrinMeridian": "San Bernardino",
         "irwin_POOLegalDescQtr": "NE",
         "irwin_POOLegalDescQtrQtr": null,
-        "irwin_POOLegalDescRange": "15",
+        "irwin_POOLegalDescRange": "15W",
         "irwin_POOLegalDescSection": 2,
-        "irwin_POOLegalDescTownship": "5",
+        "irwin_POOLegalDescTownship": "5N",
         "irwin_POOPredServiceAreaID": "SC09",
         "irwin_POOProtectingAgency": "USFS",
         "irwin_POOProtectingUnit": "CAANF",
@@ -11695,7 +11438,7 @@
         "irwin_PredominantFuelModel": null,
         "irwin_PrimaryFuelModel": "Chaparral (6 feet)",
         "irwin_SecondaryFuelModel": "Brush (2 feet)",
-        "irwin_TotalIncidentPersonnel": 98,
+        "irwin_TotalIncidentPersonnel": 40,
         "irwin_UniqueFireIdentifier": "2022-CAANF-001752",
         "irwin_WFDSSDecisionStatus": "No Decision",
         "irwin_CreatedBySystem": "wildcad",
@@ -11706,7 +11449,7 @@
         "irwin_GlobalID": null,
         "irwin_Source": "IRWIN",
         "irwin_ArchivedOn": null,
-        "irwin_ModifiedOnDateTime_dt": 1655515682980,
+        "irwin_ModifiedOnDateTime_dt": 1655565347017,
         "irwin_CreatedOnDateTime_dt": 1655329107460,
         "Shape__Area": 4.06657136409194e-06,
         "Shape__Length": 0.0175723998986338,
