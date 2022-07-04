@@ -12565,6 +12565,159 @@
         "irwin_CpxName": null,
         "irwin_CpxID": null
       }
+    },
+    {
+      "type": "Feature",
+      "id": 17479,
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -116.569014136414,
+              32.6257140682251
+            ],
+            [
+              -116.56921950749,
+              32.6259018461258
+            ],
+            [
+              -116.569237734517,
+              32.625950166722
+            ],
+            [
+              -116.569162084229,
+              32.625984368682
+            ],
+            [
+              -116.56905804205,
+              32.6259563257771
+            ],
+            [
+              -116.568994233006,
+              32.6258774558164
+            ],
+            [
+              -116.568933776723,
+              32.6257943501939
+            ],
+            [
+              -116.569014136414,
+              32.6257140682251
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "OBJECTID": 17479,
+        "poly_IncidentName": "POTRERO",
+        "poly_FeatureCategory": "Wildfire Daily Fire Perimeter",
+        "poly_MapMethod": "Hand Sketch",
+        "poly_GISAcres": 0.1,
+        "poly_CreateDate": 1656950208062,
+        "poly_DateCurrent": 1656951167216,
+        "poly_PolygonDateTime": 1656966416000,
+        "poly_Acres_AutoCalc": 0.10223786118446,
+        "poly_GlobalID": "{1EB5A4B2-B2C3-4A45-8F9B-87B8CDFA08B3}",
+        "poly_Source": "2022 NIFS",
+        "irwin_ABCDMisc": null,
+        "irwin_ADSPermissionState": "DEFAULT",
+        "irwin_CalculatedAcres": null,
+        "irwin_ContainmentDateTime": null,
+        "irwin_ControlDateTime": null,
+        "irwin_DailyAcres": 0.1,
+        "irwin_DiscoveryAcres": 0.1,
+        "irwin_DispatchCenterID": "CASBCC",
+        "irwin_EstimatedCostToDate": null,
+        "irwin_FFReportApprovedByTitle": null,
+        "irwin_FFReportApprovedByUnit": null,
+        "irwin_FFReportApprovedDate": null,
+        "irwin_FireBehaviorGeneral": null,
+        "irwin_FireBehaviorGeneral1": null,
+        "irwin_FireBehaviorGeneral2": null,
+        "irwin_FireBehaviorGeneral3": null,
+        "irwin_FireCause": "Undetermined",
+        "irwin_FireCauseGeneral": null,
+        "irwin_FireCauseSpecific": null,
+        "irwin_FireCode": null,
+        "irwin_FireDepartmentID": null,
+        "irwin_FireDiscoveryDateTime": 1656948416000,
+        "irwin_FireMgmtComplexity": null,
+        "irwin_FireOutDateTime": null,
+        "irwin_FSConfinePercent": null,
+        "irwin_FSFullSuppPercent": null,
+        "irwin_FSMonitorPercent": null,
+        "irwin_FSPointZonePercent": null,
+        "irwin_FSJobCode": null,
+        "irwin_FSOverrideCode": null,
+        "irwin_GACC": "OSCC",
+        "irwin_ICS209ReportDateTime": null,
+        "irwin_ICS209RForTimePeriodFrom": null,
+        "irwin_ICS209RForTimePeriodTo": null,
+        "irwin_ICS209ReportStatus": null,
+        "irwin_IncidentManagementOrg": null,
+        "irwin_IncidentName": "POTRERO",
+        "irwin_IncidentShortDescription": null,
+        "irwin_IncidentTypeCategory": "WF",
+        "irwin_IncidentTypeKind": "FI",
+        "irwin_InitialLatitude": 32.62615,
+        "irwin_InitialLongitude": -116.5691,
+        "irwin_InitialResponseAcres": null,
+        "irwin_InitialResponseDateTime": null,
+        "irwin_IrwinID": "{E3ECFF9B-7369-41C1-8170-9A5D1F9D39E6}",
+        "irwin_IsFireCauseInvestigated": null,
+        "irwin_IsFireCodeRequested": 0,
+        "irwin_IsFSAssisted": 0,
+        "irwin_IsMultiJurisdictional": 0,
+        "irwin_IsReimbursable": 0,
+        "irwin_IsTrespass": 0,
+        "irwin_IsUnifiedCommand": null,
+        "irwin_LocalIncidentIdentifier": "010404",
+        "irwin_PercentContained": null,
+        "irwin_PercentPerToBeContained": null,
+        "irwin_POOCity": null,
+        "irwin_POOCounty": "San Diego",
+        "irwin_POODispatchCenterID": "CASDIC",
+        "irwin_POOFips": "06073",
+        "irwin_POOJurisdictionalAgency": "BLM",
+        "irwin_POOJurisdictionalUnit": "CACDD",
+        "irwin_POOJurisdUnitParentUnit": null,
+        "irwin_POOLandownerCategory": "BLM",
+        "irwin_POOLandownerKind": "Federal",
+        "irwin_POOLegalDescPrinMeridian": null,
+        "irwin_POOLegalDescQtr": null,
+        "irwin_POOLegalDescQtrQtr": null,
+        "irwin_POOLegalDescRange": null,
+        "irwin_POOLegalDescSection": null,
+        "irwin_POOLegalDescTownship": null,
+        "irwin_POOPredServiceAreaID": "SC11",
+        "irwin_POOProtectingAgency": "BLM",
+        "irwin_POOProtectingUnit": "CACDD",
+        "irwin_POOState": "US-CA",
+        "irwin_PredominantFuelGroup": null,
+        "irwin_PredominantFuelModel": null,
+        "irwin_PrimaryFuelModel": null,
+        "irwin_SecondaryFuelModel": null,
+        "irwin_TotalIncidentPersonnel": null,
+        "irwin_UniqueFireIdentifier": "2022-CACDD-010404",
+        "irwin_WFDSSDecisionStatus": "No Decision",
+        "irwin_CreatedBySystem": "wildcad",
+        "irwin_ModifiedBySystem": "wildcad",
+        "irwin_IsDispatchComplete": 0,
+        "irwin_OrganizationalAssessment": null,
+        "irwin_StratDecisionPublishDate": null,
+        "irwin_GlobalID": null,
+        "irwin_Source": "IRWIN",
+        "irwin_ArchivedOn": null,
+        "irwin_ModifiedOnDateTime_dt": 1656950191350,
+        "irwin_CreatedOnDateTime_dt": 1656950191350,
+        "Shape__Area": 3.97549229091965e-08,
+        "Shape__Length": 0.000838508069264901,
+        "GlobalID": "98f2af42-7c86-44e8-9935-cbb3022dc503",
+        "irwin_IsCpxChild": 0,
+        "irwin_CpxName": null,
+        "irwin_CpxID": null
+      }
     }
   ]
 }
