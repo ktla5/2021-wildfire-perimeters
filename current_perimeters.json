@@ -38107,6 +38107,203 @@
         "irwin_CpxName": null,
         "irwin_CpxID": null
       }
+    },
+    {
+      "type": "Feature",
+      "id": 17889,
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -114.590115129873,
+              32.752757694597
+            ],
+            [
+              -114.589938195898,
+              32.7527935911701
+            ],
+            [
+              -114.589680595007,
+              32.75276979309
+            ],
+            [
+              -114.589373217568,
+              32.7526927378851
+            ],
+            [
+              -114.589272217285,
+              32.7526226724623
+            ],
+            [
+              -114.589169158064,
+              32.7518739524262
+            ],
+            [
+              -114.58919857789,
+              32.7515219397861
+            ],
+            [
+              -114.58922950419,
+              32.7511459957824
+            ],
+            [
+              -114.589200224502,
+              32.7509093354588
+            ],
+            [
+              -114.589634404533,
+              32.7509039033382
+            ],
+            [
+              -114.589633729898,
+              32.7510342892506
+            ],
+            [
+              -114.58987860256,
+              32.7510841823237
+            ],
+            [
+              -114.590214956955,
+              32.7514580920111
+            ],
+            [
+              -114.590650346119,
+              32.7517368165643
+            ],
+            [
+              -114.590664067885,
+              32.7519560498019
+            ],
+            [
+              -114.590124669981,
+              32.7521005710984
+            ],
+            [
+              -114.590188235669,
+              32.752325461369
+            ],
+            [
+              -114.590054134265,
+              32.7523609939662
+            ],
+            [
+              -114.590115129873,
+              32.752757694597
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "OBJECTID": 17889,
+        "poly_IncidentName": "Arnold",
+        "poly_FeatureCategory": "Wildfire Daily Fire Perimeter",
+        "poly_MapMethod": "Auto-generated",
+        "poly_GISAcres": 3,
+        "poly_CreateDate": 1657897082523,
+        "poly_DateCurrent": 1658074969908,
+        "poly_PolygonDateTime": 1657911599000,
+        "poly_Acres_AutoCalc": 4.61485589210917,
+        "poly_GlobalID": "{07F6028B-05A8-443E-856D-8B240AA4A804}",
+        "poly_Source": "2022 NIFS",
+        "irwin_ABCDMisc": null,
+        "irwin_ADSPermissionState": "DEFAULT",
+        "irwin_CalculatedAcres": null,
+        "irwin_ContainmentDateTime": null,
+        "irwin_ControlDateTime": null,
+        "irwin_DailyAcres": 3,
+        "irwin_DiscoveryAcres": 3,
+        "irwin_DispatchCenterID": "AZPDC",
+        "irwin_EstimatedCostToDate": null,
+        "irwin_FFReportApprovedByTitle": null,
+        "irwin_FFReportApprovedByUnit": null,
+        "irwin_FFReportApprovedDate": null,
+        "irwin_FireBehaviorGeneral": null,
+        "irwin_FireBehaviorGeneral1": null,
+        "irwin_FireBehaviorGeneral2": null,
+        "irwin_FireBehaviorGeneral3": null,
+        "irwin_FireCause": "Undetermined",
+        "irwin_FireCauseGeneral": null,
+        "irwin_FireCauseSpecific": null,
+        "irwin_FireCode": "PU9B",
+        "irwin_FireDepartmentID": null,
+        "irwin_FireDiscoveryDateTime": 1657893540000,
+        "irwin_FireMgmtComplexity": null,
+        "irwin_FireOutDateTime": null,
+        "irwin_FSConfinePercent": null,
+        "irwin_FSFullSuppPercent": null,
+        "irwin_FSMonitorPercent": null,
+        "irwin_FSPointZonePercent": null,
+        "irwin_FSJobCode": "PD",
+        "irwin_FSOverrideCode": "1522",
+        "irwin_GACC": "SWCC",
+        "irwin_ICS209ReportDateTime": null,
+        "irwin_ICS209RForTimePeriodFrom": null,
+        "irwin_ICS209RForTimePeriodTo": null,
+        "irwin_ICS209ReportStatus": null,
+        "irwin_IncidentManagementOrg": null,
+        "irwin_IncidentName": "Arnold",
+        "irwin_IncidentShortDescription": null,
+        "irwin_IncidentTypeCategory": "WF",
+        "irwin_IncidentTypeKind": "FI",
+        "irwin_InitialLatitude": 32.74493,
+        "irwin_InitialLongitude": -114.6048,
+        "irwin_InitialResponseAcres": null,
+        "irwin_InitialResponseDateTime": null,
+        "irwin_IrwinID": "{DDBAC638-0B1B-4736-B0FC-00A531672AF0}",
+        "irwin_IsFireCauseInvestigated": null,
+        "irwin_IsFireCodeRequested": 0,
+        "irwin_IsFSAssisted": 1,
+        "irwin_IsMultiJurisdictional": 0,
+        "irwin_IsReimbursable": 0,
+        "irwin_IsTrespass": 1,
+        "irwin_IsUnifiedCommand": null,
+        "irwin_LocalIncidentIdentifier": "000984",
+        "irwin_PercentContained": null,
+        "irwin_PercentPerToBeContained": null,
+        "irwin_POOCity": null,
+        "irwin_POOCounty": "Imperial",
+        "irwin_POODispatchCenterID": "AZPDC",
+        "irwin_POOFips": "06025",
+        "irwin_POOJurisdictionalAgency": "BIA",
+        "irwin_POOJurisdictionalUnit": "AZFYA",
+        "irwin_POOJurisdUnitParentUnit": null,
+        "irwin_POOLandownerCategory": "BIA",
+        "irwin_POOLandownerKind": "Federal",
+        "irwin_POOLegalDescPrinMeridian": null,
+        "irwin_POOLegalDescQtr": null,
+        "irwin_POOLegalDescQtrQtr": null,
+        "irwin_POOLegalDescRange": null,
+        "irwin_POOLegalDescSection": null,
+        "irwin_POOLegalDescTownship": null,
+        "irwin_POOPredServiceAreaID": "SW03",
+        "irwin_POOProtectingAgency": "BLM",
+        "irwin_POOProtectingUnit": "AZCRD",
+        "irwin_POOState": "US-CA",
+        "irwin_PredominantFuelGroup": null,
+        "irwin_PredominantFuelModel": null,
+        "irwin_PrimaryFuelModel": null,
+        "irwin_SecondaryFuelModel": null,
+        "irwin_TotalIncidentPersonnel": null,
+        "irwin_UniqueFireIdentifier": "2022-AZCRD-000984",
+        "irwin_WFDSSDecisionStatus": "No Decision",
+        "irwin_CreatedBySystem": "wildcad",
+        "irwin_ModifiedBySystem": "wildcad",
+        "irwin_IsDispatchComplete": 0,
+        "irwin_OrganizationalAssessment": null,
+        "irwin_StratDecisionPublishDate": null,
+        "irwin_GlobalID": null,
+        "irwin_Source": "IRWIN",
+        "irwin_ArchivedOn": null,
+        "irwin_ModifiedOnDateTime_dt": 1658069022297,
+        "irwin_CreatedOnDateTime_dt": 1657897068493,
+        "Shape__Area": 1.79697394742107e-06,
+        "Shape__Length": 0.0059900280453996,
+        "GlobalID": "bef9773e-3529-4ebb-969f-c474be8a3638",
+        "irwin_IsCpxChild": 0,
+        "irwin_CpxName": null,
+        "irwin_CpxID": null
+      }
     }
   ]
 }
