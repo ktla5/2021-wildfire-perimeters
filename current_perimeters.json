@@ -49705,14 +49705,14 @@
         "irwin_DailyAcres": 4856,
         "irwin_DiscoveryAcres": 0.1,
         "irwin_DispatchCenterID": "CAYPCC",
-        "irwin_EstimatedCostToDate": 25900000,
+        "irwin_EstimatedCostToDate": 27300000,
         "irwin_FFReportApprovedByTitle": null,
         "irwin_FFReportApprovedByUnit": null,
         "irwin_FFReportApprovedDate": null,
-        "irwin_FireBehaviorGeneral": "Active",
+        "irwin_FireBehaviorGeneral": "Moderate",
         "irwin_FireBehaviorGeneral1": "Flanking",
-        "irwin_FireBehaviorGeneral2": "Smoldering",
-        "irwin_FireBehaviorGeneral3": "Creeping",
+        "irwin_FireBehaviorGeneral2": "Creeping",
+        "irwin_FireBehaviorGeneral3": "Smoldering",
         "irwin_FireCause": "Undetermined",
         "irwin_FireCauseGeneral": null,
         "irwin_FireCauseSpecific": null,
@@ -49728,9 +49728,9 @@
         "irwin_FSJobCode": null,
         "irwin_FSOverrideCode": null,
         "irwin_GACC": "OSCC",
-        "irwin_ICS209ReportDateTime": 1658448900000,
-        "irwin_ICS209RForTimePeriodFrom": 1658408400000,
-        "irwin_ICS209RForTimePeriodTo": 1658448900000,
+        "irwin_ICS209ReportDateTime": 1658538000000,
+        "irwin_ICS209RForTimePeriodFrom": 1658537100000,
+        "irwin_ICS209RForTimePeriodTo": 1658538000000,
         "irwin_ICS209ReportStatus": "U",
         "irwin_IncidentManagementOrg": "Type 2 Team",
         "irwin_IncidentName": "Washburn",
@@ -49750,7 +49750,7 @@
         "irwin_IsTrespass": 0,
         "irwin_IsUnifiedCommand": 0,
         "irwin_LocalIncidentIdentifier": "000038",
-        "irwin_PercentContained": 58,
+        "irwin_PercentContained": 79,
         "irwin_PercentPerToBeContained": 100,
         "irwin_POOCity": "Wawona, CA",
         "irwin_POOCounty": "Mariposa",
@@ -49775,7 +49775,7 @@
         "irwin_PredominantFuelModel": null,
         "irwin_PrimaryFuelModel": "Brush (2 feet)",
         "irwin_SecondaryFuelModel": "Closed Timber Litter",
-        "irwin_TotalIncidentPersonnel": 1324,
+        "irwin_TotalIncidentPersonnel": 1129,
         "irwin_UniqueFireIdentifier": "2022-CAYNP-000038",
         "irwin_WFDSSDecisionStatus": "Approved Decision",
         "irwin_CreatedBySystem": "wildcad",
@@ -49786,11 +49786,864 @@
         "irwin_GlobalID": null,
         "irwin_Source": "IRWIN",
         "irwin_ArchivedOn": null,
-        "irwin_ModifiedOnDateTime_dt": 1658449971873,
+        "irwin_ModifiedOnDateTime_dt": 1658539065260,
         "irwin_CreatedOnDateTime_dt": 1657228482293,
         "Shape__Area": 0.00200311693060939,
         "Shape__Length": 0.407884942196885,
         "GlobalID": "96c5d282-02de-45e7-9335-6f19eeb93be8",
+        "irwin_IsCpxChild": 0,
+        "irwin_CpxName": null,
+        "irwin_CpxID": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 18094,
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -119.919631486552,
+              37.5487992392503
+            ],
+            [
+              -119.917232495162,
+              37.5493539881775
+            ],
+            [
+              -119.9155831883,
+              37.5502653522991
+            ],
+            [
+              -119.913234175579,
+              37.550701218281
+            ],
+            [
+              -119.911884743427,
+              37.5501861034707
+            ],
+            [
+              -119.909735646281,
+              37.549987981387
+            ],
+            [
+              -119.908586129704,
+              37.549987981387
+            ],
+            [
+              -119.907436613127,
+              37.550701218281
+            ],
+            [
+              -119.907136739315,
+              37.5516918132412
+            ],
+            [
+              -119.906686928598,
+              37.5526427715605
+            ],
+            [
+              -119.905748212482,
+              37.552486934595
+            ],
+            [
+              -119.905394665231,
+              37.5529156131236
+            ],
+            [
+              -119.905061914877,
+              37.5529980510195
+            ],
+            [
+              -119.904334024375,
+              37.5523385452992
+            ],
+            [
+              -119.903502148489,
+              37.5516130829783
+            ],
+            [
+              -119.903003022958,
+              37.552058254313
+            ],
+            [
+              -119.902399912941,
+              37.5521242053957
+            ],
+            [
+              -119.901318475188,
+              37.5520912298616
+            ],
+            [
+              -119.899821098593,
+              37.5518768885347
+            ],
+            [
+              -119.89917639568,
+              37.5516460587239
+            ],
+            [
+              -119.898947629812,
+              37.5511514210079
+            ],
+            [
+              -119.899010020503,
+              37.5507062442567
+            ],
+            [
+              -119.898386113589,
+              37.5506567800092
+            ],
+            [
+              -119.897491847012,
+              37.5504424345569
+            ],
+            [
+              -119.896867940996,
+              37.5499642778081
+            ],
+            [
+              -119.896722362716,
+              37.5496345122546
+            ],
+            [
+              -119.896680768921,
+              37.5493706987614
+            ],
+            [
+              -119.896410409258,
+              37.5490574190254
+            ],
+            [
+              -119.896223237184,
+              37.5489255113742
+            ],
+            [
+              -119.895765705447,
+              37.5491893264431
+            ],
+            [
+              -119.895557736476,
+              37.548678183899
+            ],
+            [
+              -119.895682517858,
+              37.5483813905579
+            ],
+            [
+              -119.895391361299,
+              37.5481175726293
+            ],
+            [
+              -119.895037814047,
+              37.5480186406654
+            ],
+            [
+              -119.894767455283,
+              37.5479856633149
+            ],
+            [
+              -119.894538689414,
+              37.5477053552468
+            ],
+            [
+              -119.894143548368,
+              37.5474910013069
+            ],
+            [
+              -119.893602829043,
+              37.5474250461245
+            ],
+            [
+              -119.892874937643,
+              37.5471282470814
+            ],
+            [
+              -119.892666968671,
+              37.5471282470814
+            ],
+            [
+              -119.892167844038,
+              37.5471612248112
+            ],
+            [
+              -119.891980671964,
+              37.5472271802271
+            ],
+            [
+              -119.891502343329,
+              37.5474085573198
+            ],
+            [
+              -119.891231983667,
+              37.5475734452029
+            ],
+            [
+              -119.890899233312,
+              37.547754821453
+            ],
+            [
+              -119.890462498472,
+              37.5474085573198
+            ],
+            [
+              -119.889734607971,
+              37.5476064227357
+            ],
+            [
+              -119.889256279336,
+              37.5475074900934
+            ],
+            [
+              -119.888237231376,
+              37.547111758211
+            ],
+            [
+              -119.888403606554,
+              37.5468314468566
+            ],
+            [
+              -119.888237231376,
+              37.5466500683597
+            ],
+            [
+              -119.884965668621,
+              37.5446332730685
+            ],
+            [
+              -119.883093948777,
+              37.5445178470361
+            ],
+            [
+              -119.882095698612,
+              37.5443364629099
+            ],
+            [
+              -119.881575776184,
+              37.5436768805488
+            ],
+            [
+              -119.881263822726,
+              37.543116231666
+            ],
+            [
+              -119.881159838241,
+              37.5428523951035
+            ],
+            [
+              -119.880806290989,
+              37.5426545170689
+            ],
+            [
+              -119.879142540116,
+              37.541516708178
+            ],
+            [
+              -119.879142540116,
+              37.5411374354012
+            ],
+            [
+              -119.879454493573,
+              37.5409065723328
+            ],
+            [
+              -119.879038555631,
+              37.5400820555389
+            ],
+            [
+              -119.877832335596,
+              37.5395378694601
+            ],
+            [
+              -119.877270819373,
+              37.5391256053474
+            ],
+            [
+              -119.876958866815,
+              37.5387298289709
+            ],
+            [
+              -119.87677169474,
+              37.5384494860999
+            ],
+            [
+              -119.876230975415,
+              37.5384989584478
+            ],
+            [
+              -119.87604380334,
+              37.5375919601868
+            ],
+            [
+              -119.875835834369,
+              37.5368003897651
+            ],
+            [
+              -119.875835834369,
+              37.536124249434
+            ],
+            [
+              -119.87589822506,
+              37.5356130173087
+            ],
+            [
+              -119.875960615752,
+              37.5353656463797
+            ],
+            [
+              -119.876272569209,
+              37.535035816248
+            ],
+            [
+              -119.876459741283,
+              37.5349533584872
+            ],
+            [
+              -119.876522131975,
+              37.5345245766612
+            ],
+            [
+              -119.875794240575,
+              37.5339968417985
+            ],
+            [
+              -119.875066349175,
+              37.5339968417985
+            ],
+            [
+              -119.874837583306,
+              37.532809425416
+            ],
+            [
+              -119.875731849883,
+              37.5316714662931
+            ],
+            [
+              -119.877541179036,
+              37.5313910975992
+            ],
+            [
+              -119.877042054403,
+              37.5311107271391
+            ],
+            [
+              -119.876584522666,
+              37.5309458028466
+            ],
+            [
+              -119.875835834369,
+              37.5308138631501
+            ],
+            [
+              -119.875419896426,
+              37.5308138631501
+            ],
+            [
+              -119.87465041213,
+              37.5293460189974
+            ],
+            [
+              -119.873007457256,
+              37.5291645979634
+            ],
+            [
+              -119.873028254153,
+              37.5284389094148
+            ],
+            [
+              -119.872300363651,
+              37.5283564443603
+            ],
+            [
+              -119.871884425708,
+              37.5285048813928
+            ],
+            [
+              -119.870407846011,
+              37.5272349112802
+            ],
+            [
+              -119.87019987704,
+              37.5269710185254
+            ],
+            [
+              -119.870470236703,
+              37.526591671055
+            ],
+            [
+              -119.869742346201,
+              37.5260308929999
+            ],
+            [
+              -119.869056048595,
+              37.5256515414611
+            ],
+            [
+              -119.86895206411,
+              37.5247278931309
+            ],
+            [
+              -119.869409595847,
+              37.5240846312886
+            ],
+            [
+              -119.869638361715,
+              37.5237217638995
+            ],
+            [
+              -119.87078219016,
+              37.5236227995655
+            ],
+            [
+              -119.870823783954,
+              37.5227486089137
+            ],
+            [
+              -119.870657408777,
+              37.5225671718345
+            ],
+            [
+              -119.871052549823,
+              37.5219733753845
+            ],
+            [
+              -119.871738847428,
+              37.5214125626139
+            ],
+            [
+              -119.872633113107,
+              37.5210991654061
+            ],
+            [
+              -119.873257020021,
+              37.5208847349792
+            ],
+            [
+              -119.873943317627,
+              37.5210331868789
+            ],
+            [
+              -119.874421646261,
+              37.5217094640176
+            ],
+            [
+              -119.874962364689,
+              37.522072341194
+            ],
+            [
+              -119.875981412649,
+              37.5221383188023
+            ],
+            [
+              -119.876709304049,
+              37.5215610134634
+            ],
+            [
+              -119.877312413168,
+              37.521577507984
+            ],
+            [
+              -119.877603569728,
+              37.5223032625679
+            ],
+            [
+              -119.877187632683,
+              37.5225011946054
+            ],
+            [
+              -119.876813288535,
+              37.5224352173179
+            ],
+            [
+              -119.876355756797,
+              37.5226001604272
+            ],
+            [
+              -119.877166835786,
+              37.5227815974262
+            ],
+            [
+              -119.8770628513,
+              37.5229795281946
+            ],
+            [
+              -119.875794240575,
+              37.5237712460173
+            ],
+            [
+              -119.875960615752,
+              37.5242330768214
+            ],
+            [
+              -119.876750897843,
+              37.5240021614204
+            ],
+            [
+              -119.877083648197,
+              37.5243485342538
+            ],
+            [
+              -119.876542928872,
+              37.5252227061586
+            ],
+            [
+              -119.877707554213,
+              37.5244804853864
+            ],
+            [
+              -119.878102695259,
+              37.524299052519
+            ],
+            [
+              -119.878310664231,
+              37.5235073410099
+            ],
+            [
+              -119.880036805795,
+              37.5231444701005
+            ],
+            [
+              -119.880868681681,
+              37.5230619991931
+            ],
+            [
+              -119.882532432554,
+              37.5236392936303
+            ],
+            [
+              -119.883634668102,
+              37.525437124118
+            ],
+            [
+              -119.883010761188,
+              37.5269875118499
+            ],
+            [
+              -119.882470041862,
+              37.5276307486618
+            ],
+            [
+              -119.882470041862,
+              37.5286203322139
+            ],
+            [
+              -119.88380104328,
+              37.528950190718
+            ],
+            [
+              -119.88380104328,
+              37.5284059234039
+            ],
+            [
+              -119.88452893468,
+              37.5278451589874
+            ],
+            [
+              -119.884653715164,
+              37.5261298541394
+            ],
+            [
+              -119.885360809667,
+              37.5248103621968
+            ],
+            [
+              -119.885714356918,
+              37.5249258187358
+            ],
+            [
+              -119.886671014187,
+              37.5243320403459
+            ],
+            [
+              -119.88818918678,
+              37.524299052519
+            ],
+            [
+              -119.89031046939,
+              37.5247278931309
+            ],
+            [
+              -119.892525279198,
+              37.5250175728477
+            ],
+            [
+              -119.893024403831,
+              37.5252814725127
+            ],
+            [
+              -119.893627513848,
+              37.5259247240354
+            ],
+            [
+              -119.893461138671,
+              37.5281843065025
+            ],
+            [
+              -119.892462888507,
+              37.528431701251
+            ],
+            [
+              -119.892483685404,
+              37.5290419398799
+            ],
+            [
+              -119.893627513848,
+              37.5296851589761
+            ],
+            [
+              -119.894043451791,
+              37.5300644907148
+            ],
+            [
+              -119.894168233174,
+              37.530575760163
+            ],
+            [
+              -119.89514568734,
+              37.5307736702521
+            ],
+            [
+              -119.896643063036,
+              37.5314828437587
+            ],
+            [
+              -119.897474938921,
+              37.5321590261714
+            ],
+            [
+              -119.897828485274,
+              37.5331320576847
+            ],
+            [
+              -119.898161235629,
+              37.5331815335605
+            ],
+            [
+              -119.898868330132,
+              37.5332475013437
+            ],
+            [
+              -119.899138689794,
+              37.5332475013437
+            ],
+            [
+              -119.89924267428,
+              37.5334618962361
+            ],
+            [
+              -119.898785142543,
+              37.5336433068176
+            ],
+            [
+              -119.899575424634,
+              37.5338247169578
+            ],
+            [
+              -119.900261721342,
+              37.534039110191
+            ],
+            [
+              -119.901176784816,
+              37.5342370103776
+            ],
+            [
+              -119.902050254496,
+              37.5348307099235
+            ],
+            [
+              -119.903214879838,
+              37.534896676248
+            ],
+            [
+              -119.904046755723,
+              37.5358531813953
+            ],
+            [
+              -119.904525084358,
+              37.5360016035083
+            ],
+            [
+              -119.904837037815,
+              37.5368096735619
+            ],
+            [
+              -119.905856084877,
+              37.5368426558562
+            ],
+            [
+              -119.906750351454,
+              37.5380629897755
+            ],
+            [
+              -119.906750351454,
+              37.5387885846834
+            ],
+            [
+              -119.909849087331,
+              37.5397945113986
+            ],
+            [
+              -119.910722557011,
+              37.5402067718128
+            ],
+            [
+              -119.912157542016,
+              37.5411632088478
+            ],
+            [
+              -119.913758903096,
+              37.5422185726943
+            ],
+            [
+              -119.914507591393,
+              37.5423340022866
+            ],
+            [
+              -119.915381060175,
+              37.5430430658613
+            ],
+            [
+              -119.915838591912,
+              37.5435212677203
+            ],
+            [
+              -119.916379311237,
+              37.5438180804122
+            ],
+            [
+              -119.916483295723,
+              37.544494150977
+            ],
+            [
+              -119.917419155196,
+              37.5456813820097
+            ],
+            [
+              -119.919145297659,
+              37.5459946752225
+            ],
+            [
+              -119.919706812984,
+              37.5475941026354
+            ],
+            [
+              -119.920226735412,
+              37.5485834212882
+            ],
+            [
+              -119.919631486552,
+              37.5487992392503
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "OBJECTID": 18094,
+        "poly_IncidentName": "Oak",
+        "poly_FeatureCategory": "Wildfire Daily Fire Perimeter",
+        "poly_MapMethod": "Mixed Methods",
+        "poly_GISAcres": null,
+        "poly_CreateDate": 1658538248091,
+        "poly_DateCurrent": 1658549777288,
+        "poly_PolygonDateTime": null,
+        "poly_Acres_AutoCalc": 1745.24145921738,
+        "poly_GlobalID": "{1F3C6D42-1436-4525-857D-0AACCD25F12B}",
+        "poly_Source": "2022 NIFS",
+        "irwin_ABCDMisc": null,
+        "irwin_ADSPermissionState": "DEFAULT",
+        "irwin_CalculatedAcres": null,
+        "irwin_ContainmentDateTime": null,
+        "irwin_ControlDateTime": null,
+        "irwin_DailyAcres": 1600,
+        "irwin_DiscoveryAcres": 0.01,
+        "irwin_DispatchCenterID": "CAMMCC",
+        "irwin_EstimatedCostToDate": 50000,
+        "irwin_FFReportApprovedByTitle": null,
+        "irwin_FFReportApprovedByUnit": null,
+        "irwin_FFReportApprovedDate": null,
+        "irwin_FireBehaviorGeneral": "Extreme",
+        "irwin_FireBehaviorGeneral1": null,
+        "irwin_FireBehaviorGeneral2": "Group Torching",
+        "irwin_FireBehaviorGeneral3": "Short-range Spotting",
+        "irwin_FireCause": "Undetermined",
+        "irwin_FireCauseGeneral": null,
+        "irwin_FireCauseSpecific": null,
+        "irwin_FireCode": "PWW8",
+        "irwin_FireDepartmentID": null,
+        "irwin_FireDiscoveryDateTime": 1658524208000,
+        "irwin_FireMgmtComplexity": "Type 3 Incident",
+        "irwin_FireOutDateTime": null,
+        "irwin_FSConfinePercent": 0,
+        "irwin_FSFullSuppPercent": 100,
+        "irwin_FSMonitorPercent": 0,
+        "irwin_FSPointZonePercent": 0,
+        "irwin_FSJobCode": "PN",
+        "irwin_FSOverrideCode": "1522",
+        "irwin_GACC": "OSCC",
+        "irwin_ICS209ReportDateTime": 1658540700000,
+        "irwin_ICS209RForTimePeriodFrom": 1658539860000,
+        "irwin_ICS209RForTimePeriodTo": 1658540700000,
+        "irwin_ICS209ReportStatus": "U",
+        "irwin_IncidentManagementOrg": "Type 3 Team",
+        "irwin_IncidentName": "OAK",
+        "irwin_IncidentShortDescription": "Midpines",
+        "irwin_IncidentTypeCategory": "WF",
+        "irwin_IncidentTypeKind": "FI",
+        "irwin_InitialLatitude": 37.548708,
+        "irwin_InitialLongitude": -119.920769,
+        "irwin_InitialResponseAcres": null,
+        "irwin_InitialResponseDateTime": null,
+        "irwin_IrwinID": "{09A76C17-511F-40B6-A006-8531DF0C33AC}",
+        "irwin_IsFireCauseInvestigated": null,
+        "irwin_IsFireCodeRequested": 0,
+        "irwin_IsFSAssisted": 1,
+        "irwin_IsMultiJurisdictional": 0,
+        "irwin_IsReimbursable": 1,
+        "irwin_IsTrespass": 0,
+        "irwin_IsUnifiedCommand": 1,
+        "irwin_LocalIncidentIdentifier": "016149",
+        "irwin_PercentContained": 0,
+        "irwin_PercentPerToBeContained": 100,
+        "irwin_POOCity": "Mariposa",
+        "irwin_POOCounty": "Mariposa",
+        "irwin_POODispatchCenterID": "CAMMCC",
+        "irwin_POOFips": "06043",
+        "irwin_POOJurisdictionalAgency": null,
+        "irwin_POOJurisdictionalUnit": null,
+        "irwin_POOJurisdUnitParentUnit": null,
+        "irwin_POOLandownerCategory": "Private",
+        "irwin_POOLandownerKind": "Private",
+        "irwin_POOLegalDescPrinMeridian": null,
+        "irwin_POOLegalDescQtr": null,
+        "irwin_POOLegalDescQtrQtr": null,
+        "irwin_POOLegalDescRange": null,
+        "irwin_POOLegalDescSection": null,
+        "irwin_POOLegalDescTownship": null,
+        "irwin_POOPredServiceAreaID": "SC04",
+        "irwin_POOProtectingAgency": "CAL FIRE",
+        "irwin_POOProtectingUnit": "CAMMU",
+        "irwin_POOState": "US-CA",
+        "irwin_PredominantFuelGroup": null,
+        "irwin_PredominantFuelModel": null,
+        "irwin_PrimaryFuelModel": "Brush (2 feet)",
+        "irwin_SecondaryFuelModel": "Medium Logging Slash",
+        "irwin_TotalIncidentPersonnel": 383,
+        "irwin_UniqueFireIdentifier": "2022-CAMMU-016149",
+        "irwin_WFDSSDecisionStatus": "No Decision",
+        "irwin_CreatedBySystem": "cfcad",
+        "irwin_ModifiedBySystem": "ics209",
+        "irwin_IsDispatchComplete": 0,
+        "irwin_OrganizationalAssessment": null,
+        "irwin_StratDecisionPublishDate": null,
+        "irwin_GlobalID": null,
+        "irwin_Source": "IRWIN",
+        "irwin_ArchivedOn": null,
+        "irwin_ModifiedOnDateTime_dt": 1658541029227,
+        "irwin_CreatedOnDateTime_dt": 1658524217513,
+        "Shape__Area": 0.000720017892035685,
+        "Shape__Length": 0.165957212609931,
+        "GlobalID": "60591345-7c00-4294-aadd-d9958b5287cc",
         "irwin_IsCpxChild": 0,
         "irwin_CpxName": null,
         "irwin_CpxID": null
